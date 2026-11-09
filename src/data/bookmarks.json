@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-09",
- "total": 1254,
+ "total": 1261,
  "items": [
   {
    "title": "ANDROID ZONE",
@@ -820,6 +820,16 @@
    "sub": "博客与社区",
    "host": "daniweb.com",
    "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
+   "title": "AES 在线加密和解密",
+   "url": "https://www.devglan.com/online-tools/aes-encryption-decryption",
+   "desc": "AES 等加密算法在线工具站",
+   "cat": "开发",
+   "sub": "博客与社区",
+   "host": "devglan.com",
+   "added": "1601-06-04",
    "profile": "Default"
   },
   {
@@ -1743,66 +1753,6 @@
    "profile": "Default"
   },
   {
-   "title": "保姆级教程：OpenClaw(Clawdbot)汉化/原版部署（阿里云/Win11/MacOS/Linux）+百炼/Coding Plan API配置+F…",
-   "url": "https://developer.aliyun.com/article/1716472",
-   "desc": "阿里云开发者社区",
-   "cat": "开发",
-   "sub": "设计与素材",
-   "host": "developer.aliyun.com",
-   "added": "1601-06-05",
-   "profile": "Profile 3"
-  },
-  {
-   "title": "Serverless AI, Forever Free for Developers",
-   "url": "https://developer.puter.com/tutorials/serverless-ai-forever-free-for-developers",
-   "desc": "Puter 免费云端 AI 开发者平台",
-   "cat": "开发",
-   "sub": "设计与素材",
-   "host": "developer.puter.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "计算机开发者博客：来自计算机工程团队的新闻和更新",
-   "url": "https://developer.puter.com/blog",
-   "desc": "Puter 免费云端 AI 开发者平台",
-   "cat": "开发",
-   "sub": "设计与素材",
-   "host": "developer.puter.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "微信开发者平台",
-   "url": "https://developers.weixin.qq.com/console/product/mp/wx6f081e9b9754a174?tab1=basicInfo&tab2=dev",
-   "desc": "微信小程序与公众号开发者平台",
-   "cat": "开发",
-   "sub": "设计与素材",
-   "host": "developers.weixin.qq.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AES 在线加密和解密",
-   "url": "https://www.devglan.com/online-tools/aes-encryption-decryption",
-   "desc": "AES 等加密算法在线工具站",
-   "cat": "开发",
-   "sub": "设计与素材",
-   "host": "devglan.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "AICoding基地",
-   "url": "https://devmaster.cn",
-   "desc": "AI 编程学习与开发资源站",
-   "cat": "开发",
-   "sub": "设计与素材",
-   "host": "devmaster.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "figma.com",
    "url": "https://www.figma.com/make/QtMsQ83NjYRQhvSmhrEpvr/Duplicate-This-Page?t=VpjZieMc1FY4Lpc4-0",
    "desc": "在线协作式 UI 界面设计工具",
@@ -1921,6 +1871,46 @@
    "host": "cn.vitejs.dev",
    "added": "1601-06-03",
    "profile": "Profile 1"
+  },
+  {
+   "title": "保姆级教程：OpenClaw(Clawdbot)汉化/原版部署（阿里云/Win11/MacOS/Linux）+百炼/Coding Plan API配置+F…",
+   "url": "https://developer.aliyun.com/article/1716472",
+   "desc": "阿里云开发者社区",
+   "cat": "开发",
+   "sub": "文档与教程",
+   "host": "developer.aliyun.com",
+   "added": "1601-06-05",
+   "profile": "Profile 3"
+  },
+  {
+   "title": "Serverless AI, Forever Free for Developers",
+   "url": "https://developer.puter.com/tutorials/serverless-ai-forever-free-for-developers",
+   "desc": "Puter 免费云端 AI 开发者平台",
+   "cat": "开发",
+   "sub": "文档与教程",
+   "host": "developer.puter.com",
+   "added": "1601-06-04",
+   "profile": "Default"
+  },
+  {
+   "title": "计算机开发者博客：来自计算机工程团队的新闻和更新",
+   "url": "https://developer.puter.com/blog",
+   "desc": "Puter 免费云端 AI 开发者平台",
+   "cat": "开发",
+   "sub": "文档与教程",
+   "host": "developer.puter.com",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
+   "title": "微信开发者平台",
+   "url": "https://developers.weixin.qq.com/console/product/mp/wx6f081e9b9754a174?tab1=basicInfo&tab2=dev",
+   "desc": "微信小程序与公众号开发者平台",
+   "cat": "开发",
+   "sub": "文档与教程",
+   "host": "developers.weixin.qq.com",
+   "added": "1601-06-05",
+   "profile": "Default"
   },
   {
    "title": "npmjs.com",
@@ -6503,6 +6493,16 @@
    "profile": "Default"
   },
   {
+   "title": "Dev Hunt——每天为您带来最新最棒的开发者工具。",
+   "url": "https://devhunt.org",
+   "desc": "每日精选开发者工具的发布与发现平台",
+   "cat": "资源导航",
+   "sub": "产品发现",
+   "host": "devhunt.org",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
    "title": "商业和网络目录网络 | Directories.Best",
    "url": "https://directories.best",
    "desc": "汇集商业与网站目录资源的目录网络",
@@ -6723,6 +6723,16 @@
    "profile": "Default"
   },
   {
+   "title": "Startup Stash - The Curated Directory of Tools for Startups",
+   "url": "https://startupstash.com",
+   "desc": "按类别整理的创业工具与资源目录",
+   "cat": "资源导航",
+   "sub": "产品发现",
+   "host": "startupstash.com",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
    "title": "Optimize your time and resources with top SaaS tools. - Startup Vessel",
    "url": "https://startupvessel.com",
    "desc": "精选顶级 SaaS 工具的推荐目录",
@@ -6799,6 +6809,16 @@
    "cat": "资源导航",
    "sub": "产品发现",
    "host": "unitelist.com",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
+   "title": "Versily——产品与社区的交汇点 | Versily",
+   "url": "https://versily.com",
+   "desc": "产品与社区交汇的独立开发者展示平台",
+   "cat": "资源导航",
+   "sub": "产品发现",
+   "host": "versily.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -7773,6 +7793,16 @@
    "profile": "Default"
   },
   {
+   "title": "AICoding基地",
+   "url": "https://devmaster.cn",
+   "desc": "AI 编程学习与开发资源站",
+   "cat": "AI 工具",
+   "sub": "编程与Agent",
+   "host": "devmaster.cn",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
    "title": "MCP 服务器 | Glama",
    "url": "https://glama.ai/mcp/servers",
    "desc": "MCP 服务器目录与 AI 代理网关平台",
@@ -7939,6 +7969,16 @@
    "cat": "AI 工具",
    "sub": "导航与目录",
    "host": "abao.ai",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
+   "title": "GPT Image 2.6、Seedance 2.5 提示词附真实成品，Claude Code 技能合集 |代理工艺",
+   "url": "https://agentcraft.dev/zh",
+   "desc": "AI Agent 与提示词构建工坊",
+   "cat": "AI 工具",
+   "sub": "导航与目录",
+   "host": "agentcraft.dev",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -8129,6 +8169,16 @@
    "cat": "AI 工具",
    "sub": "导航与目录",
    "host": "aidirectori.es",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
+   "title": "AI 工具目录 | 发现并提交 AI 工具 - AIDirs",
+   "url": "https://aidirs.org",
+   "desc": "AI 工具目录与提交收录平台",
+   "cat": "AI 工具",
+   "sub": "导航与目录",
+   "host": "aidirs.org",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -8735,6 +8785,16 @@
   {
    "title": "Future Tools - Find The Exact AI Tool For Your Needs",
    "url": "https://www.futuretools.io",
+   "desc": "人工智能工具的聚合发现与推荐导航站",
+   "cat": "AI 工具",
+   "sub": "导航与目录",
+   "host": "futuretools.io",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
+   "title": "未来工具——人工智能的脉搏",
+   "url": "https://futuretools.io",
    "desc": "人工智能工具的聚合发现与推荐导航站",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -9489,6 +9549,16 @@
    "cat": "AI 工具",
    "sub": "导航与目录",
    "host": "theresanaiforthat.com",
+   "added": "1601-06-05",
+   "profile": "Default"
+  },
+  {
+   "title": "TheSaaSDir",
+   "url": "https://thesaasdir.com",
+   "desc": "SaaS 与 AI 产品目录收录站",
+   "cat": "AI 工具",
+   "sub": "导航与目录",
+   "host": "thesaasdir.com",
    "added": "1601-06-05",
    "profile": "Default"
   },

@@ -167,6 +167,13 @@ export const DESC = {
   'tingfeng.19ny.com': '代理服务面板',
   'tingfeng2.19ny.com': '代理服务面板',
   'xn--ciq7ko0lg8x.com': '个人站点',
+  'devhunt.org': '每日精选开发者工具的发布与发现平台',
+  'versily.com': '产品与社区交汇的独立开发者展示平台',
+  'startupstash.com': '按类别整理的创业工具与资源目录',
+  'futuretools.io': '热门 AI 工具聚合发现与推荐导航站',
+  'agentcraft.dev': 'AI Agent 与提示词构建工坊',
+  'aidirs.org': 'AI 工具目录与提交收录平台',
+  'thesaasdir.com': 'SaaS 与 AI 产品目录收录站',
   ...GENERATED_DESC, // 子代理生成库兜底合并（手写条目优先）
 };
 
@@ -248,7 +255,12 @@ export const RULES = [
   [/^(fastlaunch|submitmatic|startup|创业|independent)/, ['资源导航', '产品发现']],
   [/^(krackpot|bitcoin|btc|puzzle|加密货币)/, ['待整理', null]],
   [/^(itsk|IT天空|系统封装|驱动)/, ['实用工具', '系统与驱动']],
-  [/^(superdesign|design|dev)/, ['开发', '设计与素材']],
+  [/^(superdesign|design\.|designmodo|figma)/, ['开发', '设计与素材']],
+  // ^dev 精确化（宽泛前缀曾错吞阿里云/微信开发者文档）
+  [/^(developer\.|developers\.)/, ['开发', '文档与教程']],
+  [/^(devglan|dev\.to)/, ['开发', '博客与社区']],
+  [/^(devhunt)/, ['资源导航', '产品发现']],
+  [/^(devmaster|devhunt\.ai)/, ['AI 工具', '编程与Agent']],
   // 四轮：长尾大簇
   [/^(chat-|chat1|chatnio|veloera|oneapi|new-?api|teamorouter|agentrouter|anyrouter|router|relay|中转|lambda\.chat|open\.maic|ffa\.chat|easychat|dafreeai|g4f|freegpt|getgpt|claudechn|supercluai|getfre|myai\.asia|infip|oaichat|shy521|wr\.do|aih\.lat|ubfgho|passwall|bcloud|ml\.jf449|linjinpeng)/, ['AI 工具', 'API 与中转站']],
   [/^(it-tools|uutils|lzltool|qtool|manytools|1024tools|acidtools|imyshare|weliketools|he tool|ol\.|toolbox|工具箱)/, ['实用工具', '在线工具']],
@@ -362,6 +374,9 @@ export const RULES = [
   [/^(iherb|allx\.bfgho|vip\.bfgho)/, ['购物电商', '电商']],
   [/^(author\.yizhiknow|易知)/, ['资源导航', '学习资源']],
   [/^(ximo|superaiboom)/, ['AI 工具', '导航与目录']],
+  // 十一轮: 2026-11-09 新增书签归位
+  [/^(agentcraft|aidirs|thesaasdir|dir2ai|ai-?dirs)/, ['AI 工具', '导航与目录']],
+  [/^(versily|startupstash)/, ['资源导航', '产品发现']],
   // 九轮: 收尾散兵
   // 十轮: 长尾终归位
   [/^(xn--)/, ['网络', '机场与节点']], // punycode 中文域名 — 抽样全为机场系(一毛机场/早安云/极速机场/连接VPN)
