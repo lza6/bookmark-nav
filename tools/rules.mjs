@@ -36,10 +36,13 @@ export const EXCLUDE_URL_PARTS = [
   '100xx.xx.kg', 'xiangjiaozyw.com', 'bokepinaja.com', 'i8k.tv', '1024tools.com',
   // 五轮：成人残留
   'x.91sheshe.com', '91sheshe.com', 'ajianpingce.com',
+  // 六轮：最终漏网
+  'javhub.me', '113da.com', 'blacked.com', 'cum4k.com', 'tubewolf.com',
+  'xbabe.com', 'youjizz.com', 'stripchat.com', '1377x.to',
 ];
 
 // 标题命中 → 排除（URL 规则抓不到的成人站）
-export const EXCLUDE_TITLE = /無碼|有码|成人影片|成人AV|大香蕉|伊人在线|a片|A片|OnlyFans|色情|情色|R18|H成人|免费AV|在线看片|撸|炮|援交|种子.*XXX|XXX.*种子|不想看片/i;
+export const EXCLUDE_TITLE = /無碼|无码|有码|成人影片|成人AV|大香蕉|伊人在线|a片|A片|OnlyFans|色情|情色|R18|H成人|免费AV|在线看片|撸|炮|援交|种子.*XXX|XXX.*种子|不想看片|Erotica|Nude|porn/i;
 
   // 文件夹路径含这些词 → 排除（用户的「私人」目录及子夹）
 export const EXCLUDE_FOLDERS = ['私人', 'xvideos-', 'thumbzilla', 'xhamster', '欧美站', '日系AV', 'AI成人'];
