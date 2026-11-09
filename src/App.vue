@@ -32,6 +32,20 @@ const cats = computed(() => {
 
 const totalCount = data.total
 
+// 当前分类内无结果时的全站命中数（用于兜底提示）
+const globalHits = computed(() => {
+  const q = query.value.trim().toLowerCase()
+  if (!q) return 0
+  return data.items.filter(
+    i => i.title.toLowerCase().includes(q) || i.desc.toLowerCase().includes(q) ||
+      i.url.toLowerCase().includes(q) || i.host.toLowerCase().includes(q)
+  ).length
+})
+function searchAll() {
+  activeCat.value = '全部'
+  activeSub.value = ''
+}
+
 const filtered = computed(() => {
   let items = data.items
   if (activeCat.value !== '全部') items = items.filter(i => i.cat === activeCat.value)
@@ -120,8 +134,14 @@ onMounted(() => {
         <CardGrid :items="filtered" />
         <div v-if="!filtered.length" class="empty">
           <div class="empty-icon">🔍</div>
-          <p v-if="query">没有找到「{{ query }}」相关站点</p>
+          <p v-if="query && activeCat !== '全部' && globalHits > 0">
+            「{{ activeCat }}」内没有匹配，但全站有 {{ globalHits }} 个结果
+          </p>
+          <p v-else-if="query">没有找到「{{ query }}」相关站点</p>
           <p v-else>该分类暂无站点</p>
+          <button v-if="query && activeCat !== '全部' && globalHits > 0" class="search-all-btn" @click="searchAll">
+            在全部站点中搜索
+          </button>
         </div>
       </main>
     </div>
@@ -198,6 +218,18 @@ onMounted(() => {
 
 .empty { text-align: center; padding: 80px 0; color: var(--text-3); }
 .empty-icon { font-size: 48px; margin-bottom: 12px; }
+.search-all-btn {
+  margin-top: 16px;
+  padding: 8px 20px;
+  border: 1px solid var(--accent);
+  border-radius: 10px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.search-all-btn:hover { background: var(--accent); color: #fff; }
 
 @media (max-width: 900px) {
   .menu-btn { display: block; }
