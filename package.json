@@ -1,0 +1,19 @@
+{
+  "name": "bookmark-nav",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "pipeline": "node tools/extract.cjs && node tools/classify.mjs",
+    "pipeline:nogit": "node tools/extract.cjs && node tools/classify.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.7"
+  }
+}
