@@ -2,7 +2,7 @@
 // 用法: node tools/classify.cjs
 import fs from 'fs';
 import path from 'path';
-import { EXCLUDE_DOMAINS, EXCLUDE_URL_PARTS, EXCLUDE_FOLDERS, EXCLUDE_TITLE, DESC, RULES, KEYWORD_RULES, isLocalHost } from './rules.mjs';
+import { EXCLUDE_DOMAINS, EXCLUDE_URL_PARTS, urlHasSexKeyword, EXCLUDE_FOLDERS, EXCLUDE_TITLE, DESC, RULES, KEYWORD_RULES, isLocalHost } from './rules.mjs';
 import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -34,7 +34,9 @@ function isExcluded(b) {
   const fu = b.folders.join('/');
   if (isLocalHost(h)) return 'local';
   for (const d of EXCLUDE_DOMAINS) if (h === d || h.endsWith('.' + d)) return 'domain:' + d;
-  for (const p of EXCLUDE_URL_PARTS) if (b.url.toLowerCase().includes(p)) return 'url:' + p;
+  const lu = b.url.toLowerCase();
+  for (const p of EXCLUDE_URL_PARTS) if (lu.includes(p)) return 'url:' + p;
+  if (urlHasSexKeyword(b.url)) return 'url:sex(standalone)';
   for (const f of EXCLUDE_FOLDERS) if (fu.includes(f)) return 'folder:' + f;
   if (EXCLUDE_TITLE.test(b.title)) return 'title-match';
   return null;

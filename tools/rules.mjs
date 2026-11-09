@@ -17,10 +17,11 @@ export const EXCLUDE_DOMAINS = [
 ];
 
 // URL 含这些关键词 → 排除（成人站点镜像/路径）
+// 注意: 不收 'sex' 裸词——vuejsexamples.com 等正常站会被子串误杀, sex 由独立词正则判断
 export const EXCLUDE_URL_PARTS = [
   'xvideos', 'thumbzilla', 'xhamster', 'pornhub', 'xnxx', 'missav',
   'spankbang', 'redtube', 'youporn', 'jable', 'netflav', 'supjav',
-  'javmost', 'javbangers', 'porn', 'sex', 'nsfw', 'hentai', 'onlyfans',
+  'javmost', 'javbangers', 'porn', 'nsfw', 'hentai', 'onlyfans',
   'erome', 'motherless', 'eporner', 'camwhores', 'thisvid', 'rule34',
   'nhentai', 'exhentai', 'e-hentai', 'hanime', 'iroots', 'avgle',
   'pornone', 'txxx', 'upornia', 'hclips', 'hotmovs', 'beeg',
@@ -38,8 +39,13 @@ export const EXCLUDE_URL_PARTS = [
   'x.91sheshe.com', '91sheshe.com', 'ajianpingce.com',
   // 六轮：最终漏网
   'javhub.me', '113da.com', 'blacked.com', 'cum4k.com', 'tubewolf.com',
-  'xbabe.com', 'youjizz.com', 'stripchat.com', '1377x.to',
+  'xbabe.com', 'youjizz.com', 'stripchat.com', '1377x.to', 'sexinsex.net',
 ];
+
+// sex 作为独立词出现才排除（vuejsexamples 不命中，sex.com / /sex/ 命中）
+export function urlHasSexKeyword(url) {
+  return /(^|[^a-z])sex([^a-z]|$)/.test(url.toLowerCase());
+}
 
 // 标题命中 → 排除（URL 规则抓不到的成人站）
 export const EXCLUDE_TITLE = /無碼|无码|有码|成人影片|成人AV|大香蕉|伊人在线|a片|A片|OnlyFans|色情|情色|R18|H成人|免费AV|在线看片|撸|炮|援交|种子.*XXX|XXX.*种子|不想看片|Erotica|Nude|porn/i;
