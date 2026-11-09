@@ -1,5 +1,5 @@
 <script setup>
-import { ref, computed, onMounted, watch } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 import data from './data/bookmarks.json'
 import Sidebar from './components/Sidebar.vue'
 import SearchBar from './components/SearchBar.vue'
@@ -48,8 +48,13 @@ const filtered = computed(() => {
 })
 
 function selectCat(name) {
-  activeCat.value = name
-  activeSub.value = ''
+  if (activeCat.value === name && name !== '全部') {
+    // 再点一次当前分类 = 收起二级列表
+    activeSub.value = ''
+  } else {
+    activeCat.value = name
+    activeSub.value = ''
+  }
   sidebarOpen.value = false
 }
 function selectSub(name) {
@@ -73,7 +78,6 @@ onMounted(() => {
     if (saved === 'light' || saved === 'dark') { theme.value = saved; applyTheme() }
   } catch (e) {}
 })
-watch(query, () => { if (query.value && activeCat.value !== '全部') { activeCat.value = '全部'; activeSub.value = '' } })
 </script>
 
 <template>
@@ -107,16 +111,17 @@ watch(query, () => { if (query.value && activeCat.value !== '全部') { activeCa
       <main class="main">
         <div class="cat-header" v-if="activeCat !== '全部'">
           <h1>{{ activeCat }}<template v-if="activeSub"> · {{ activeSub }}</template></h1>
-          <span class="cat-count">{{ filtered.length }} 个站点</span>
+          <span class="cat-count">{{ filtered.length }} 个站点<template v-if="query"> · 搜索「{{ query }}」</template></span>
         </div>
         <div class="cat-header" v-else>
           <h1>全部站点</h1>
-          <span class="cat-count">{{ filtered.length }} 个站点 · {{ cats.length }} 个分类</span>
+          <span class="cat-count">{{ filtered.length }} 个站点 · {{ cats.length }} 个分类<template v-if="query"> · 搜索「{{ query }}」</template></span>
         </div>
         <CardGrid :items="filtered" />
         <div v-if="!filtered.length" class="empty">
           <div class="empty-icon">🔍</div>
-          <p>没有找到「{{ query }}」相关站点</p>
+          <p v-if="query">没有找到「{{ query }}」相关站点</p>
+          <p v-else>该分类暂无站点</p>
         </div>
       </main>
     </div>

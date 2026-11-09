@@ -37,15 +37,15 @@ function icon(name) { return CAT_ICONS[name] || '📁' }
           <span class="nav-name">{{ c.name }}</span>
           <span class="nav-count">{{ c.total }}</span>
         </button>
-        <div v-if="activeCat === c.name && c.subs.length > 1" class="sub-list">
+        <div v-if="activeCat === c.name && c.subs.some(s => s.name)" class="sub-list">
           <button
-            v-for="s in c.subs"
+            v-for="s in c.subs.filter(x => x.name)"
             :key="s.name"
             class="sub-item"
             :class="{ active: activeSub === s.name }"
             @click="emit('select-sub', s.name)"
           >
-            <span class="sub-name">{{ s.name || '通用' }}</span>
+            <span class="sub-name">{{ s.name }}</span>
             <span class="sub-count">{{ s.count }}</span>
           </button>
         </div>

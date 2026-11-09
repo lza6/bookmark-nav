@@ -8,7 +8,7 @@ const model = defineModel()
     <input
       v-model="model"
       class="search-input"
-      type="search"
+      type="text"
       placeholder="搜索站点、描述、域名…"
       autocomplete="off"
     />

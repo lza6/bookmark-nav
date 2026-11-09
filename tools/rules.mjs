@@ -1,6 +1,9 @@
 // rules.mjs — 分类规则库（长期维护点：新增站点优先在这里加规则或介绍）
 // 三类规则：EXCLUDE（排除）、DESC（已知站点介绍）、RULES（域名→分类路径）
 
+// 子代理批量生成的介绍（tools/merge-desc.mjs 产物, 1170 域名）
+import { GENERATED_DESC } from './desc-generated.mjs';
+
 // ── 排除规则 ─────────────────────────────────────────────
 export const EXCLUDE_DOMAINS = [
   // 成人内容（用户拍板完全排除）
@@ -146,6 +149,25 @@ export const DESC = {
   'nodeseek.com': 'NodeSeek 主机论坛',
   'quark.cn': '夸克网盘',
   'pan.quark.cn': '夸克网盘网页版',
+  'echanpin.com': '磁力链接搜索引擎',
+  'uy5.net': '个人资源聚合站',
+  'tntv2.net': '代理服务注册页',
+  'abao.ai': 'AI 工具聚合站',
+  'oken.ai': 'AI 工具聚合站',
+  'dfans.co': '个人主页',
+  'mjc.cam': '个人服务面板',
+  'xqc.best': '个人服务面板',
+  'ch.louwangzhiyu.xyz': '资源分享站',
+  'lucky.5202030.xyz': '资源分享站',
+  'szhz.dport.top': '资源聚合站',
+  'feige55.com': '代理服务入口',
+  'ooly.cc': '个人站点',
+  'tweek.top': '个人站点',
+  'shiyuanfafa.com': '代理服务面板',
+  'tingfeng.19ny.com': '代理服务面板',
+  'tingfeng2.19ny.com': '代理服务面板',
+  'xn--ciq7ko0lg8x.com': '个人站点',
+  ...GENERATED_DESC, // 子代理生成库兜底合并（手写条目优先）
 };
 
 // ── 分类规则：正则(域名) → 分类路径 ───────────────────────
@@ -176,7 +198,7 @@ export const RULES = [
   // 工具
   [/^(pdf|pdftoword|ilovepdf|smallpdf|pdf24|格式转换|convert|cloudconvert|convertio)/, ['实用工具', '格式转换']],
   [/^(translate|translate\.google|deepl|fanyi|翻译|lingva)/, ['实用工具', '翻译']],
-  [/^(tool|tools|在线工具|文本|text-?repeater|正则|regex|json|格式化|beautifier|minifier|cron|时间戳)/, ['实用工具', '在线工具']],
+  [/^(tool\.|toolhelper|toolwa|在线工具|文本|text-?repeater|正则|regex|json|格式化|beautifier|minifier|cron|时间戳)/, ['实用工具', '在线工具']],
   // 影音
   [/^(youtube\.com|youtu\.be|bilibili\.com|b23\.tv|douyin\.com|youtube|nunflix|影视|电影|美剧|动漫|anime|movie|tvbox)/, ['影音媒体', '影视与视频']],
   [/^(music|spotify|网易云|音乐|netease|qq\.com.*music|last\.fm|apple\.com.*music)/, ['影音媒体', '音乐']],
@@ -228,7 +250,7 @@ export const RULES = [
   [/^(itsk|IT天空|系统封装|驱动)/, ['实用工具', '系统与驱动']],
   [/^(superdesign|design|dev)/, ['开发', '设计与素材']],
   // 四轮：长尾大簇
-  [/^(chat-|chat1|chatnio|veloera|oneapi|new-?api|teamorouter|agentrouter|anyrouter|router|relay|中转|lambda\.chat|open\.maic|ffa\.chat|easychat|dafreeai|g4f|freegpt|getgpt|claudechn|supercluai|getfre|myai\.asia|infip|oaichat|shy521|wr\.do|aih\.lat|ubfgho|passwall|bcloud|ml\.jf449|linjinpeng)/, ['AI 工具', '中转与免费API']],
+  [/^(chat-|chat1|chatnio|veloera|oneapi|new-?api|teamorouter|agentrouter|anyrouter|router|relay|中转|lambda\.chat|open\.maic|ffa\.chat|easychat|dafreeai|g4f|freegpt|getgpt|claudechn|supercluai|getfre|myai\.asia|infip|oaichat|shy521|wr\.do|aih\.lat|ubfgho|passwall|bcloud|ml\.jf449|linjinpeng)/, ['AI 工具', 'API 与中转站']],
   [/^(it-tools|uutils|lzltool|qtool|manytools|1024tools|acidtools|imyshare|weliketools|he tool|ol\.|toolbox|工具箱)/, ['实用工具', '在线工具']],
   [/^(zhibo8|jrszhibo|feisuzhibo|24kanqiu|nba01|直播|zhibo|体育|sport|nba)/, ['影音媒体', '直播与体育']],
   [/^(figma|iconfont|pixlr|mobbin|cherrycss|canva|photopea|dribbble|behance)/, ['开发', '设计与素材']],
@@ -298,6 +320,71 @@ export const RULES = [
   [/^(bing|cn\.bing)/, ['资源导航', '搜索引擎']],
   [/^(fiber\.google|speedtest|fast\.com)/, ['网络', '测速与查询']],
   [/^(savefrom|zh\.savefrom)/, ['影音媒体', '视频解析与下载']],
+  // ── 七轮：垃圾抽屉二次拆解（AI/其他 305 + 其他 141 → 真实簇）──
+  // AI 导航/目录/发现
+  [/^(ai-bot\.cn|aibard123|aibest|aidaguan|aihub\.cn|aimaplab|ainavhub|aipure|aitools\.fyi|aitooltrek|aitrendytools|aiwith\.me|aixploria|besttools\.pro|creati\.ai|openfuture|openpedia|opentools\.ai|plz\.ai|saasaitools|showmebest|sourcedir|stork\.ai|superaiboom|thatsmyai|whattheai|welcome\.ai|magicbox\.tools|offerfinder|agentusecases|ai999999|aigc160|abao\.ai|htai91|shenzjd|findcg|aiforums|peerpush|submitbear|saasgrave|ls\.saasgrave|waxianzhi|waytoagi|deepface|aifreeforever)/, ['AI 工具', '导航与目录']],
+  // AI 对话/模型站
+  [/^(kimi\.com|iflow\.cn|ish\.chat|helixmind|imini\.com|hvoy\.ai|aurorai|zai\.is|ai\.hebox|ai\.lezi|agi\.ylsap|superclueai|platform\.deepseek|cloud\.siliconflow|origin\.eqing|oi\.wr\.do|sp2djp\.aitianhu|zhucn\.org|gemini\.bailili|arena\.ai4bharat|models\.sulat|llmhost|deepswe|canirun|frenix|fengweifeng|dazi\.co|dfans|open\.maic|laya\.tools)/, ['AI 工具', '对话与模型']],
+  // AI 编程/Agent/MCP/Skills
+  [/^(ai-sdk|buildwithclaude|claw\.|cocoloop|glama\.ai|mcp\.|mcpmarket|smithery|skills\.|colaskill|comfy\.org|runninghub|civitai|trae\.cn|vibex|claw800|cloud\.google|canirun|rentahuman|browseract)/, ['AI 工具', '编程与Agent']],
+  // AI 图像/音视频处理
+  [/^(vocalremover|banana\.ovo|banananano2|base64-to-iamge|weshop)/, ['AI 工具', '生成与创作']],
+  // 账号/合租/卡密商店
+  [/^(naifeistation|nikoers|sheer\.com|catfk\.com|zrg\.zrbyhelp|gpt\.qt\.cool|sdtime\.vip|uy5\.net|500\.im|tntv2\.net|node5\.chatshare|xunleimatrix|dreametech)/, ['账号服务', '账号与合租']],
+  // 机场地址发布页
+  [/^(u9dz|569\.|tmxk\.pp\.ua|passwallwall|cf\.cloudupup|hongxingdl)/, ['网络', '机场与节点']],
+  // 淘客跳转域/电商
+  [/ubfgho\.com$|bfxitong\.com$|^(iherb|shiyuteaset|admin\.shopify)/, ['购物电商', '电商']],
+  // 磁力/BT 补充（拼音域名）
+  [/^(laowang|wuqian|soucilixw|btgoogle|go2think|btapp|btlms|cilido|drum\.)/, ['影音媒体', '磁力与下载']],
+  [/tgstat/, ['社区论坛', 'Telegram']],
+  [/^(meta\.discourse|q\.qq\.com|peakd|linktr\.ee|disboard)/, ['社区论坛', '综合']],
+  [/^(rumble|tenstream)/, ['影音媒体', '影视与视频']],
+  // 个人技术博客
+  [/^(guolicheng|galijun|lovejay|jpsmile|niugee|zymn\.cc|wufeitong|usehook|linbintalk|ayangcc|shadowhackr|jishu5|fre321|geekshare)/, ['开发', '博客与社区']],
+  // 笔记/在线工具
+  [/^(mubu|markmind|notion\.so|dean\.edwards|duankou\.wlphp)/, ['实用工具', '在线工具']],
+  // 个人控制台/面板
+  [/^(app\.jingfan|ss\.shy521|xqc\.best|mjc\.cam|qyhever|xmdbd|zanzhu\.denxio|gitlawb|panel\.cloudzy|app\.docker|user\.tikhub|dash\.int\.yt|dashboard\.|app\.packetstream|app\.traffmonetizer|app\.brevo|merchantcenter|client\.googiehost)/, ['云与基建', '控制台与面板']],
+  // 挂机/加密杂项
+  [/^(krackpot|addslice)/, ['营销工具', '被动收入']],
+  [/^(12377|airforce)/, ['其他', null]],
+  // ── 八轮：AI 三大簇收尾（目录/中转/生成）──
+  [/^(aichief|aidh|ainavi|aiopenminds|aitobox|aitoolkit|aitools\.|aitoolsdirectory|aitoolstore|baozang|betterai|biemoyu|dokeyai|dang\.ai|hao\.94c|hao\.uisdc|haobgl|insidr|internetintro|itirupati|jiaogeai|moge\.ai|okeiai|poweredbyai|powerusers|sanhuang520|stackledge|submitaitools|topaitools|withai|zhifoubox|xunyidian|ai-daquan|huobidex|whalesync|app\.aibase|hiaiscout|askaiforit|bai\.tools|easywithai|getmodnow|agenthunter|ai-agents-directory|ai-archaive|linkly\.ai|vibeprompt|ooken|okkmax|helpaio|llmtest|modelprice|hub\.aihaotan|shuita\.xyz|cardnav|getcheapai|shenzjd|toolai|toolbaz|toolcenter|toolcosmos|toolfinddir|toolfio|tooljourney|toollist|toolpilot|toolprism|tools-ai|toolsignal|toolslisthq)/, ['AI 工具', '导航与目录']],
+  [/^(api\.|apimart|aquadevs|blazeai|blazeapi|completions\.me|euromodels|evolink|gege\.chat|helicard|jiurelay|literouter|logfare|miaomiaocode|muapi|orcarouter|piapi\.ai|sfkey|sk-free|tokennav|unorouter|yunwu\.ai|zenmux|anannas|aiguerrilla|itsfree\.ai|nopaywall|cs\.to2ai|ai\.furry|api\.airforce|api\.together|9router|aichatonline|freeapi|kie\.ai|docs\.kie|ovhcloud|rawbot|replicate|datalearner|opencompass|chenyu\.cn|alistaitsacle|s3ai)/, ['AI 工具', 'API 与中转站']],
+  [/^(aiimgcreator|artbot|aivideogeneratorfree|create\.wan|dezgo|dolai\.video|dreamifly|geminigen|gpt-image2|gptimg|happy-horse|higgsfield|imastudio|inkfox|jupitrr|ketchup-ai|liblib\.art|mindvideo|neuroplace|ohmyimages|pikalabsai|pixverseai|pigenai|seeddanceai|text2img|tusi\.cn|veo31|jxp\.com|z-image|newyougo|app\.klingai|lovart|banana\.)/, ['AI 工具', '生成与创作']],
+  [/^(chat\.qwen|chat\.z\.ai|chat\.op414|chatgptplus|codenews|opkfc|chat\.aifreeforever|chat\.pollinations|chat\.infip|chat\.3211000|voo\.works|felo\.ai|ai\.44vl|ai\.121628|gpt4o\.so|ai\.wayhu|yeasy\.gitbook|jxxy\.net|uxbaike|cc-chat|yuque\.com|zrg\.|welcome\.ai)/, ['AI 工具', '对话与模型']],
+  [/^(codebuddy|mossx|cto\.new|web\.bluethenics|app\.kilo|aitmpl|claudemarketplaces|agent-skills|aicnn|cerebrascoder|codexradar|deng\.codexradar)/, ['AI 工具', '编程与Agent']],
+  // 残余杂项归位
+  [/^(labs\.google|trackerlist|share\.dmhy|mt\.btlms|t11\.btapp|ug\.cilido|drum\.|85la|getfreeproxy|proxypool)/, ['影音媒体', '磁力与下载']],
+  [/^(mbbrowser)/, ['账号服务', '指纹浏览器']],
+  [/^(host\.docker|api\.telegram)/, ['开发', '代码托管']],
+  [/^(iherb|allx\.bfgho|vip\.bfgho)/, ['购物电商', '电商']],
+  [/^(author\.yizhiknow|易知)/, ['资源导航', '学习资源']],
+  [/^(ximo|superaiboom)/, ['AI 工具', '导航与目录']],
+  // 九轮: 收尾散兵
+  // 十轮: 长尾终归位
+  [/^(xn--)/, ['网络', '机场与节点']], // punycode 中文域名 — 抽样全为机场系(一毛机场/早安云/极速机场/连接VPN)
+  [/^(seostudio|toolbox)/, ['实用工具', '在线工具']],
+  [/^h1\.appinn|^111666/, ['实用工具', '图床']],
+  [/^liteapks/, ['安卓', 'APK 与应用']],
+  [/^e-art|vue-particles/, ['开发', '前端生态']],
+  [/^waybien/, ['资源导航', '搜索引擎']],
+  [/^mydnshe/, ['云与基建', '云服务与域名']],
+  [/^cf\.trackerslist|^byepiao/, ['影音媒体', '磁力与下载']],
+  [/^pl\.85la/, ['网络', '免费节点']],
+  [/^pcdndh/, ['资源导航', '导航站']],
+  [/^eqishare/, ['开发', '博客与社区']],
+  [/^rank\.opencompass/, ['AI 工具', '导航与目录']],
+  [/^(tgram|tgzhidao|tgnav|tgnetdisc)/, ['社区论坛', 'Telegram']],
+  [/^cn\.iherb/, ['购物电商', '电商']],
+  [/^(ai-chatbot|app\.promptport|thatsmy|writify|oken\.ai|topai\.tools|info\.ineed|hao\.bx9y|wangzhifeng|yjpoo|modeloc|mcp-link|puter|app\.gitpod|ai\.atomgit|enter\.pollinations|rb6k9jv)/, ['AI 工具', '导航与目录']],
+  [/^(aptoide|liteapks|en\.aptoide)/, ['安卓', 'APK 与应用']],
+  [/^(stackryze|dnshe|域名|domain\.)/, ['云与基建', '云服务与域名']],
+  [/^(claw\.cloud|ap-northeast)/, ['云与基建', '部署平台']],
+  [/^(zkaq|i\.zkaq)/, ['开发', '逆向与安全']],
+  [/^(oss|osssr|trackerlist|85la)/, ['开发', 'CDN 与静态资源']],
+  [/^(0168|1000\.tools|111666|h1\.appinn|e-art|vue-particles|waybien|tweek|ooly|qingju|byepiao|pcdndh|altapps|ghfind|mixpartners|rcchh|feige55|dabai|bacon|shiyuanfafa|szhz|178sz03|6666b|8152|xkwuai|xunleiyk|timo\.guru|lucky|krackpot|airforce|12377|superdesign|eqishare|ch\.louwangzhiyu|9router)/, ['其他', null]],
 ];
 
 // 标题/URL 关键词兜底规则（域名规则未命中时用）

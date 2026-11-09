@@ -2,5 +2,13 @@ node_modules/
 dist/
 tools/raw-bookmarks.json
 tools/excluded-log.json
-tmp-preview.log
+tools/link-report.json
+tools/desc-out/
+tools/desc-tasks/
+tools/reclass-dump.json
+tools/raw-backup.json
+tools/sample-err.txt
+tmp/
+*.log
 .DS_Store
+tools/verify-dead.txt

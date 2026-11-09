@@ -1,9 +1,24 @@
 <script setup>
-import { ref } from 'vue'
+import { ref, watch } from 'vue'
 const props = defineProps({ item: { type: Object, required: true } })
 
+// favicon 多源级联: google s2 → 站点自身 /favicon.ico → 首字母色块
+// (google s2 在中国大陆不可达, 站点直连 favicon 可用性更高)
+let origin = ''
+try { origin = new URL(props.item.url).origin } catch (e) {}
+const idx = ref(0)
+const sources = [
+  'https://www.google.com/s2/favicons?sz=64&domain=' + props.item.host,
+  origin ? origin + '/favicon.ico' : '',
+].filter(Boolean)
+const iconUrl = ref(sources[0])
 const iconFailed = ref(false)
-const iconUrl = 'https://www.google.com/s2/favicons?sz=64&domain=' + props.item.host
+watch(idx, i => {
+  if (i >= sources.length) { iconFailed.value = true; return }
+  iconUrl.value = sources[i]
+})
+function onError() { idx.value++ }
+
 const letter = (props.item.title || props.item.host || '?').trim().charAt(0).toUpperCase()
 const hue = [...(props.item.host || 'x')].reduce((a, c) => a + c.charCodeAt(0), 0) % 360
 </script>
@@ -17,14 +32,15 @@ const hue = [...(props.item.host || 'x')].reduce((a, c) => a + c.charCodeAt(0), 
         :src="iconUrl"
         alt=""
         loading="lazy"
-        @error="iconFailed = true"
+        referrerpolicy="no-referrer"
+        @error="onError"
       />
       <div v-else class="favicon-fallback" :style="{ background: 'hsl(' + hue + ', 55%, 50%)' }">
         {{ letter }}
       </div>
       <div class="card-title" :title="item.title">{{ item.title }}</div>
     </div>
-    <div class="card-desc" :title="item.desc">{{ item.desc }}</div>
+    <div class="card-desc" v-if="item.desc && item.desc !== item.title" :title="item.desc">{{ item.desc }}</div>
     <div class="card-foot">
       <span class="card-cat">{{ item.cat }}<template v-if="item.sub"> · {{ item.sub }}</template></span>
       <span class="card-host">{{ item.host }}</span>
@@ -72,6 +88,8 @@ const hue = [...(props.item.host || 'x')].reduce((a, c) => a + c.charCodeAt(0), 
 .card-title {
   font-weight: 600;
   font-size: 14px;
+  flex: 1;
+  min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;

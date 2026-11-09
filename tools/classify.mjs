@@ -14,6 +14,8 @@ function normalizeUrl(u) {
   try {
     const url = new URL(u);
     if (!/^https?:$/.test(url.protocol)) return null;
+    // 内嵌账号密码的 URL 一律拒绝（公开仓库泄密风险）
+    if (url.username || url.password) return null;
     url.hash = '';
     const drop = [...url.searchParams.keys()].filter(k => /^(utm_|ref|source|fbclid|gclid|spm|from|vd_source)/i.test(k));
     drop.forEach(k => url.searchParams.delete(k));
@@ -27,12 +29,51 @@ function hostname(u) {
   try { return new URL(u).hostname.replace(/^www\./, '').toLowerCase(); } catch (e) { return ''; }
 }
 
+// 与 normalizeUrl 同口径, 供死链排除先行比对（normalizeUrl 会拒绝 userinfo 等, 这里只做规范化）
+function normalizeUrlRaw(u) {
+  try {
+    const url = new URL(u);
+    if (!/^https?:$/.test(url.protocol)) return null;
+    url.hash = '';
+    const drop = [...url.searchParams.keys()].filter(k => /^(utm_|ref|source|fbclid|gclid|spm|from|vd_source)/i.test(k));
+    drop.forEach(k => url.searchParams.delete(k));
+    let s = url.toString();
+    if (s.endsWith('/')) s = s.slice(0, -1);
+    return s;
+  } catch (e) { return null; }
+}
+
+// query 参数含敏感凭证 → 拒绝发布（公开仓库泄密风险）
+const SENSITIVE_PARAM = /^(token|access_token|key|apikey|api_key|secret|password|passwd|pwd|auth|authorization|session|sid|sig|signature|invite_code|invitecode)$/i;
+function hasSensitiveParam(u) {
+  try {
+    const url = new URL(u);
+    for (const k of url.searchParams.keys()) if (SENSITIVE_PARAM.test(k)) return true;
+    return false;
+  } catch (e) { return true; }
+}
+
 // ── 1. 排除 ──
 const excluded = [];
+// 链接审计死链（tools/linkcheck.mjs 产物；用户拍板：死链直接剔除）
+let deadSet = new Set();
+const reportPath = path.join(__dirname, 'link-report.json');
+if (fs.existsSync(reportPath)) {
+  try {
+    const rep = JSON.parse(fs.readFileSync(reportPath, 'utf8'));
+    deadSet = new Set((rep.dead || []).map(d => d.url));
+    console.log('link-report 载入: ' + deadSet.size + ' 条死链参与剔除');
+  } catch (e) { console.log('link-report 解析失败, 跳过死链剔除'); }
+}
 function isExcluded(b) {
   const h = hostname(b.url);
   const fu = b.folders.join('/');
   if (isLocalHost(h)) return 'local';
+  if (hasSensitiveParam(b.url)) return 'sensitive-param';
+  if (deadSet.size) {
+    const nu = normalizeUrlRaw(b.url);
+    if (nu && deadSet.has(nu)) return 'dead-link';
+  }
   for (const d of EXCLUDE_DOMAINS) if (h === d || h.endsWith('.' + d)) return 'domain:' + d;
   const lu = b.url.toLowerCase();
   for (const p of EXCLUDE_URL_PARTS) if (lu.includes(p)) return 'url:' + p;
@@ -46,6 +87,8 @@ function isExcluded(b) {
 function cleanTitle(t, u) {
   let s = t.replace(/\s*[-–—|]\s*[^|]{0,30}(XVIDEOS|XVIDEOS\.COM|xhamster|thumbzilla|pornhub|Google Chrome|YouTube|哔哩哔哩|bilibili|百度|知乎|CSDN博客|博客园|- YouTube|Video)/gi, '').trim();
   s = s.replace(/_(XVIDEOS\.COM|xhamster\w*)$/i, '').replace(/\s*\|\s*[^|]*$/, '').trim();
+  // " --- 副本站名" / " — xxx" 尾部残渣（页面标题常见 A --- B 双写）
+  s = s.replace(/\s+---+\s+.*$/, '').replace(/\s+—\s+.*$/, '').trim();
   if (!s) s = hostname(u);
   if (s.length > 80) s = s.slice(0, 77) + '…';
   return s;
@@ -75,11 +118,13 @@ for (const b of raw) {
   const key = nu.replace(/^https?:/, '');
   if (seen.has(key)) { dupCount++; continue; }
   const h = hostname(nu);
-  const desc = DESC[h] || cleanTitle(b.title, nu);
+  const clean = cleanTitle(b.title, nu);
+  // title 一律用页面标题(不折叠同站不同页); desc 用介绍库, 无介绍时回退标题(前端 desc===title 时不渲染)
+  const desc = DESC[h] || clean;
   const [c1, c2] = classify({ ...b, url: nu });
   const show1 = c1 === '待整理' ? '其他' : c1;
   seen.set(key, {
-    title: DESC[h] ? h : cleanTitle(b.title, nu),
+    title: clean,
     url: nu,
     desc,
     cat: show1,
