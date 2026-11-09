@@ -1,4 +1,5 @@
 <script setup>
+import { catIcon as icon } from '../catIcons.js'
 const props = defineProps({
   cats: { type: Array, required: true },
   activeCat: String,
@@ -6,14 +7,6 @@ const props = defineProps({
   open: Boolean,
 })
 const emit = defineEmits(['select', 'select-sub'])
-
-const CAT_ICONS = {
-  'AI 工具': '🤖', '开发': '💻', '网络': '🌐', '账号服务': '🔑',
-  '实用工具': '🧰', '影音媒体': '🎬', '社区论坛': '💬', '购物电商': '🛒',
-  '云与基建': '☁️', '安卓': '📱', '资源导航': '🧭', '营销工具': '📣',
-  '游戏': '🎮', '资讯博客': '📰', '其他': '📦',
-}
-function icon(name) { return CAT_ICONS[name] || '📁' }
 </script>
 
 <template>

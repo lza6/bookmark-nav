@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-09",
- "total": 1261,
+ "total": 935,
  "items": [
   {
    "title": "ANDROID ZONE",
@@ -93,26 +93,6 @@
    "profile": "Default"
   },
   {
-   "title": "艺术与设计 – LeeAPK",
-   "url": "https://leeapk.com/apps/art-design",
-   "desc": "LeeAPK 安卓 MOD 应用下载站",
-   "cat": "安卓",
-   "sub": "APK 与应用",
-   "host": "leeapk.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "生产力 – LeeAPK",
-   "url": "https://leeapk.com/apps/productivity",
-   "desc": "LeeAPK 安卓 MOD 应用下载站",
-   "cat": "安卓",
-   "sub": "APK 与应用",
-   "host": "leeapk.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "您搜索了 AI - LITEAPKS",
    "url": "https://liteapks.com/?s=AI",
    "desc": "安卓免付费破解应用 APK 下载站",
@@ -133,32 +113,12 @@
    "profile": "Default"
   },
   {
-   "title": "下载适用于安卓系统的游戏 APK",
-   "url": "https://pdalife.com/android/games",
-   "desc": "安卓与 iOS 双端应用游戏资源下载站",
-   "cat": "安卓",
-   "sub": "APK 与应用",
-   "host": "pdalife.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "适用于安卓和 iOS 系统的应用 – PDALIFE.com",
    "url": "https://pdalife.com",
    "desc": "安卓与 iOS 双端应用游戏资源下载站",
    "cat": "安卓",
    "sub": "APK 与应用",
    "host": "pdalife.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "搜索结果：AI | Platinmods - 安卓 MOD、MOD APK 手机游戏及应用",
-   "url": "https://platinmods.com/search/155693261/?q=AI&o=relevance",
-   "desc": "安卓 MOD 游戏修改社区与资源下载站",
-   "cat": "安卓",
-   "sub": "APK 与应用",
-   "host": "platinmods.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -193,16 +153,6 @@
    "profile": "Default"
   },
   {
-   "title": "Best Mod APKs for Android – Free Premium Apps & Games",
-   "url": "https://www.rockmods.net/apps",
-   "desc": "安卓 MOD 免费高级应用与游戏下载站",
-   "cat": "安卓",
-   "sub": "APK 与应用",
-   "host": "rockmods.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Shiyu tea set · 主页 · Shopify",
    "url": "https://admin.shopify.com/store/0ddc84-53",
    "desc": "Shopify 独立站商家管理后台",
@@ -210,46 +160,6 @@
    "sub": "电商",
    "host": "admin.shopify.com",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "京东商城",
-   "url": "http://ajdo.ubfgho.com",
-   "desc": "京东商城综合电商购物平台快捷入口",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "ajdo.ubfgho.com",
-   "added": "1601-06-01",
-   "profile": "Default"
-  },
-  {
-   "title": "携程旅行",
-   "url": "http://allx.bfgho.com",
-   "desc": "携程旅行机票酒店出行预订服务平台",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "allx.bfgho.com",
-   "added": "1601-06-01",
-   "profile": "Default"
-  },
-  {
-   "title": "爱淘宝",
-   "url": "http://atbo.ubfgho.com",
-   "desc": "爱淘宝精选好货导购与优惠购物入口",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "atbo.ubfgho.com",
-   "added": "1601-06-01",
-   "profile": "Default"
-  },
-  {
-   "title": "百度搜索",
-   "url": "http://baidu.bfxitong.com",
-   "desc": "百度搜索引擎中文网页快捷搜索入口",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "baidu.bfxitong.com",
-   "added": "1601-06-02",
    "profile": "Default"
   },
   {
@@ -261,66 +171,6 @@
    "host": "cn.iherb.com",
    "added": "1601-06-03",
    "profile": "Profile 1"
-  },
-  {
-   "title": "聚划算",
-   "url": "http://jhso.ubfgho.com",
-   "desc": "聚划算品牌折扣与限时团购购物平台",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "jhso.ubfgho.com",
-   "added": "1601-06-01",
-   "profile": "Default"
-  },
-  {
-   "title": "苏宁易购",
-   "url": "http://suning.bfgho.com",
-   "desc": "苏宁易购家电百货综合电商购物平台",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "suning.bfgho.com",
-   "added": "1601-06-02",
-   "profile": "Default"
-  },
-  {
-   "title": "淘宝特卖",
-   "url": "http://tbtmo.ubfgho.com",
-   "desc": "淘宝特卖低价折扣商品购物入口站",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "tbtmo.ubfgho.com",
-   "added": "1601-06-01",
-   "profile": "Default"
-  },
-  {
-   "title": "天猫商城",
-   "url": "http://tmallo.ubfgho.com",
-   "desc": "天猫商城品牌正品旗舰店购物平台",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "tmallo.ubfgho.com",
-   "added": "1601-06-01",
-   "profile": "Default"
-  },
-  {
-   "title": "唯品会",
-   "url": "http://vip.bfgho.com",
-   "desc": "唯品会品牌特卖会员制电商购物平台",
-   "cat": "购物电商",
-   "sub": "电商",
-   "host": "vip.bfgho.com",
-   "added": "1601-06-02",
-   "profile": "Default"
-  },
-  {
-   "title": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
-   "url": "https://www.amz123.com/ai",
-   "desc": "跨境电商导航门户，亚马逊卖家工具",
-   "cat": "购物电商",
-   "sub": "跨境电商",
-   "host": "amz123.com",
-   "added": "1601-06-04",
-   "profile": "Default"
   },
   {
    "title": "AMZ123亚马逊导航-跨境电商出海门户",
@@ -383,36 +233,6 @@
    "profile": "Default"
   },
   {
-   "title": "账号设置",
-   "url": "https://account.cnblogs.com/settings/account",
-   "desc": "博客园账号设置管理页面",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "account.cnblogs.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "爱分享博客",
-   "url": "https://aifx668.blogspot.com/search?updated-max=2024-02-27T02:30:00-08:00&max-results=13",
-   "desc": "资源与软件分享类个人博客",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "aifx668.blogspot.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "历史分享相关资源合集",
-   "url": "https://aifx668.blogspot.com/2023/10/blog-post.html?m=1",
-   "desc": "资源与软件分享类个人博客",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "aifx668.blogspot.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "老E的博客 - VPS | AIGC | Proxy",
    "url": "https://appscross.com",
    "desc": "VPS、AIGC 与代理主题的技术博客",
@@ -441,36 +261,6 @@
    "host": "docs.clawd.bot",
    "added": "1601-06-05",
    "profile": "Default"
-  },
-  {
-   "title": "Topaz便携版(免安装)下载链接",
-   "url": "https://docs.qq.com/doc/DRFZmVVVYWG9ldXZQ",
-   "desc": "腾讯文档在线协作",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "docs.qq.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Codex使用指南",
-   "url": "https://docs.qq.com/doc/DRnFXSVd4QUduTUpp",
-   "desc": "腾讯文档在线协作",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "docs.qq.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "性能优化-思维导图",
-   "url": "https://docs.qq.com/mind/DWnljWm52eEVjWWNE",
-   "desc": "腾讯文档在线协作",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "docs.qq.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
   },
   {
    "title": "部署概览",
@@ -553,16 +343,6 @@
    "profile": "Default"
   },
   {
-   "title": "‍​⁢⁤﻿﻿‌﻿⁣‌﻿⁣⁢‌‌⁢‬‬⁡​⁢⁢‍‍⁡​‬⁣‬⁡⁣⁣﻿⁣‬‬‌⁡‌⁡​​‬​⁣‬‌​‍﻿9.1 AIGC 资讯、社区、导航站 - 飞书云文档",
-   "url": "https://my.feishu.cn/wiki/TLB3woYNkiw4uukf5b5cQUZBnyg",
-   "desc": "飞书文档与协作",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "my.feishu.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "小探花 - 飞书云文档",
    "url": "https://my.feishu.cn/wiki/K12WwWIq7iKhhNkVOJccJfa9nXg",
    "desc": "飞书文档与协作",
@@ -583,36 +363,6 @@
    "profile": "Default"
   },
   {
-   "title": "没有权限访问 - 飞书云文档",
-   "url": "https://pvku78nlcu.feishu.cn/docx/Dqlyd24hvoDdLpx0AVfcjQ64n3b",
-   "desc": "飞书平台上的云文档分享页",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "pvku78nlcu.feishu.cn",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "【模板】Veo3 -JSON提示词模板 - 飞书云文档",
-   "url": "https://q7y0qvi7ov.feishu.cn/docx/AdMKdzR3Jo1nozxqjR9c9HNLnku",
-   "desc": "Veo3 提示词模板的飞书文档",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "q7y0qvi7ov.feishu.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "钱科技博客",
-   "url": "https://qkj668.blogspot.com/search?updated-max=2022-10-02T03:03:00-07:00&max-results=13",
-   "desc": "科技与网络资源分享博客",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "qkj668.blogspot.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "优质教程、视频课程和电子书 Courses, and eBooks",
    "url": "https://www.tutorialspoint.com/index.htm",
    "desc": "多语言编程教程与电子书学习站",
@@ -620,16 +370,6 @@
    "sub": "博客与教程",
    "host": "tutorialspoint.com",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "‍⁢⁡⁤﻿​⁢⁣‌⁤​⁢⁤‬⁡​﻿⁡‬﻿‌‬‌⁡​⁣⁢​‍﻿‍​﻿‌​⁣⁢‬​‍‬⁤​​​﻿‬‬‬​免费公益站统计合集（持续更新中）26/9/7-c - …",
-   "url": "https://vcnzf1j2lbd8.feishu.cn/docx/JiIed93OMoN8XKxPx1wcxG4nn7c",
-   "desc": "免费公益站统计合集的飞书文档",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "vcnzf1j2lbd8.feishu.cn",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -653,88 +393,8 @@
    "profile": "Default"
   },
   {
-   "title": "小刀娱乐网 - 专注活动，软件，教程分享！总之就是网络那些事。",
-   "url": "https://xd.x6d.com",
-   "desc": "小刀娱乐网自学教程子站",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "xd.x6d.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "宅家自学-小刀娱乐网 - 专注活动，软件，教程分享！总之就是网络那些事。",
-   "url": "https://xd.x6d.com/html/18.html",
-   "desc": "小刀娱乐网自学教程子站",
-   "cat": "开发",
-   "sub": "博客与教程",
-   "host": "xd.x6d.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "海康威视web3.0+vue项目使用(踩坑之路)ps:附webVideoCtrl.js文件_QueenLee1的博客",
-   "url": "https://blog.csdn.net/QueenLee1/article/details/93623756?depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-BlogCommendFromBaidu-23.nonecas",
-   "desc": "开发者技术博客与经验分享社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "blog.csdn.net",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "(1条消息) CSS实现为文字添加背景_潮利潮的博客",
-   "url": "https://blog.csdn.net/qq_44699174/article/details/106055510",
-   "desc": "开发者技术博客与经验分享社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "blog.csdn.net",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "vue+iview 封装动态可配置扩展性强的form表单_wjswangjinsheng的博客",
-   "url": "https://blog.csdn.net/wjswangjinsheng/article/details/108616971",
-   "desc": "开发者技术博客与经验分享社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "blog.csdn.net",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "zhangankang的博客_ANKG_CSDN博客-VUE,JavaScript,网页基础领域博主",
-   "url": "https://blog.csdn.net/zhangank",
-   "desc": "开发者技术博客与经验分享社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "blog.csdn.net",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "webpack之优化篇（四）：hard-source-webpack-plugin,webpack DllPlugin配置的代替方案_I大俊",
-   "url": "https://blog.csdn.net/hope_It/article/details/102691300",
-   "desc": "开发者技术博客与经验分享社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "blog.csdn.net",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
    "title": "小满zs - Vue3",
    "url": "https://blog.csdn.net/qq1195566313?type=blog",
-   "desc": "开发者技术博客与经验分享社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "blog.csdn.net",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "(8条消息) vite 基础配置_神奇大叔的博客_vite配置",
-   "url": "https://blog.csdn.net/weixin_43294560/article/details/123280642",
    "desc": "开发者技术博客与经验分享社区",
    "cat": "开发",
    "sub": "博客与社区",
@@ -763,36 +423,6 @@
    "profile": "Default"
   },
   {
-   "title": "一池寒潭",
-   "url": "https://www.cnblogs.com/FRIM",
-   "desc": "博客园，国内技术博客社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "cnblogs.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "王一白",
-   "url": "https://www.cnblogs.com/wongbingming",
-   "desc": "博客园，国内技术博客社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "cnblogs.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "外挂基础知识入门",
-   "url": "https://www.cnblogs.com/zhoading/p/11736292.html",
-   "desc": "博客园，国内技术博客社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "cnblogs.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "磊哥",
    "url": "https://www.cnblogs.com/vipstone",
    "desc": "博客园，国内技术博客社区",
@@ -801,16 +431,6 @@
    "host": "cnblogs.com",
    "added": "1601-06-05",
    "profile": "Default"
-  },
-  {
-   "title": "慕斯undefined",
-   "url": "https://www.cnblogs.com/musi03",
-   "desc": "博客园，国内技术博客社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "cnblogs.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
   },
   {
    "title": "DaniWeb Community - Technology and Programming Discussion",
@@ -833,16 +453,6 @@
    "profile": "Default"
   },
   {
-   "title": "路灯IT技术博客 - 后厂村路灯 - 程序员路灯 - Java路灯 - 原:晒而网 - 技术至上 分享无限 - 一起分享",
-   "url": "https://www.eqishare.com",
-   "desc": "路灯 IT 技术博客，编程经验分享",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "eqishare.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "🍊果粒橙🍊",
    "url": "https://guolicheng.cc/index.php",
    "desc": "个人生活与技术随笔博客",
@@ -859,26 +469,6 @@
    "cat": "开发",
    "sub": "博客与社区",
    "host": "jpsmile.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "一键部署Google开源大模型Gemma，性能远超Mistral、LLama2",
-   "url": "https://linbintalk.com/linbintalk/Google-Gemma-Mistral-LLama2-ollama-f21d1058025745cc9bd8f049ed84ba55",
-   "desc": "AI 与大模型主题的技术博客",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "linbintalk.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "小林的博客-AI学长",
-   "url": "https://linbintalk.com/linbintalk/bab00be2533c43be954b51c57bfbf075?v=d671bb982210461cb48c3c511880700f",
-   "desc": "AI 与大模型主题的技术博客",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "linbintalk.com",
    "added": "1601-06-04",
    "profile": "Default"
   },
@@ -933,16 +523,6 @@
    "profile": "Default"
   },
   {
-   "title": "什么是 AI 智能体开发 - 前端码易",
-   "url": "https://usehook.cn/aicompanion/0-what-is-agent-dev",
-   "desc": "前端与 AI 智能体开发技术博客",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "usehook.cn",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
    "title": "usehook.cn",
    "url": "https://usehook.cn/aicompanion/2-memory-scheduling",
    "desc": "前端与 AI 智能体开发技术博客",
@@ -959,16 +539,6 @@
    "cat": "开发",
    "sub": "博客与社区",
    "host": "v2ex.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "YC 创业公司名录 | Y Combinator",
-   "url": "https://www.ycombinator.com/companies",
-   "desc": "YC 创业孵化器与创业者社区",
-   "cat": "开发",
-   "sub": "博客与社区",
-   "host": "ycombinator.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -993,52 +563,12 @@
    "profile": "Default"
   },
   {
-   "title": "ACL4SSR 在线订阅转换",
-   "url": "https://acl4ssr-sub.github.io",
-   "desc": "ACL4SSR 规则在线订阅转换工具",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "acl4ssr-sub.github.io",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "GitHub Tail - 实时更新的仓库 | 实时仪表盘",
-   "url": "https://alcastelo.github.io/github-tail",
-   "desc": "GitHub 仓库实时更新仪表盘",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "alcastelo.github.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "道可道",
-   "url": "https://daobook.github.io/index.html",
-   "desc": "开源书籍翻译与文档托管站",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "daobook.github.io",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "GitHub Open Data",
    "url": "https://gh.jiayouvibe.com",
    "desc": "GitHub 开源项目发现与收藏站",
    "cat": "开发",
    "sub": "代码托管",
    "host": "gh.jiayouvibe.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "人工智能 - 人工智能 - 热门项目 - Gitee.com",
-   "url": "https://gitee.com/explore/Artificial-Intelligence",
-   "desc": "国内代码托管平台码云",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "gitee.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -1053,292 +583,12 @@
    "profile": "Profile 1"
   },
   {
-   "title": "RuoYi-Vue-FastAPI: 基于Vue2+Element UI+FastAPI开发的一个通用中后台管理框架（若依的FastAPI版本），支持代码生成",
-   "url": "https://gitee.com/insistence2022/RuoYi-Vue-FastAPI",
-   "desc": "国内代码托管平台码云",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "gitee.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "奔跑的面条/react-big-screen - 码云 - 开源中国",
-   "url": "https://gitee.com/MTrun/react-big-screen",
-   "desc": "国内代码托管平台码云",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "gitee.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "zhufeng-training: zhufeng训练营相关工程",
-   "url": "https://gitee.com/zhufeng-training",
-   "desc": "国内代码托管平台码云",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "gitee.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "ruoyi-mall/src/main/java/com/cyl/manager/aws/controller/SystemStatisticsContr…",
-   "url": "https://gitee.com/zccbbg/RuoYi-Mall/blob/master/ruoyi-mall/src/main/java/com/cyl/manager/aws/controller/SystemStatisticsController.java",
-   "desc": "国内代码托管平台码云",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "gitee.com",
-   "added": "1601-06-05",
-   "profile": "Profile 3"
-  },
-  {
-   "title": "GitHub - freenodes/freenodes: 免费梯子🪜 免费科学上网🛜免费翻墙🧱免费订阅♻️免费代理✨ 免费节点🆓免费机场✈️4小…",
-   "url": "https://github.com/freenodes/freenodes",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "LiLittleCat/awesome-free-chatgpt: 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free Chat…",
-   "url": "https://github.com/LiLittleCat/awesome-free-chatgpt",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "carpedm20/awesome-hacking：精选的精彩黑客教程、工具和资源列表",
-   "url": "https://github.com/carpedm20/awesome-hacking",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "shakenetwork/Awesome-Hacking：收集整理的黑客工具为黑客、渗透测试人员和安全研究人员提供的各种很棒的列表的集合 https://…",
-   "url": "https://github.com/shakenetwork/Awesome-Hacking",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "justjavac/free-programming-books-zh_CN: :books: 免费的计算机编程类中文书籍，欢迎投稿",
-   "url": "https://github.com/justjavac/free-programming-books-zh_CN",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "HqWu-HITCS/Awesome-Chinese-LLM: 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，…",
-   "url": "https://github.com/HqWu-HITCS/Awesome-Chinese-LLM?tab=readme-ov-file",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "L1B3RT4S/ANTHROPIC.mkd at main · elder-plinius/L1B3RT4S",
-   "url": "https://github.com/elder-plinius/L1B3RT4S/blob/main/ANTHROPIC.mkd",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "0xk1h0/ChatGPT_DAN: ChatGPT DAN, Jailbreaks prompt",
-   "url": "https://github.com/0xk1h0/ChatGPT_DAN",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "2025/6/18/2/2025-6-18.md at main · MeeGooBoo/2025",
-   "url": "https://github.com/MeeGooBoo/2025/blob/main/6/18/2/2025-6-18.md",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Release Version 1.1.34.0 · fxsound2/fxsound-app",
-   "url": "https://github.com/fxsound2/fxsound-app/releases/tag/latest",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "今日热门仓库",
    "url": "https://github.com/trending",
    "desc": "全球最大代码托管平台",
    "cat": "开发",
    "sub": "代码托管",
    "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "HeyPuter/puter: 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
-   "url": "https://github.com/heyPuter/puter/?tab=readme-ov-file",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Releases · hanshuaikang/nezha",
-   "url": "https://github.com/hanshuaikang/nezha/releases",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "ximagine-2api-pro-cfwork/worker.js at main · lza6/ximagine-2api-pro-cfwork",
-   "url": "https://github.com/lza6/ximagine-2api-pro-cfwork/blob/main/worker.js",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Issues · ruanyf/weekly",
-   "url": "https://github.com/ruanyf/weekly/issues",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "github.com",
-   "url": "https://github.com/wenhai03?tab=repositories",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "qiutongxue/oba-live-tool: 直播带货工具，支持平台：抖音小店、巨量百应、抖音团购、小红书、视频号、快手小店、淘宝",
-   "url": "https://github.com/qiutongxue/oba-live-tool",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "GitHub - X1a0He/X1a0HeWeChatPlugin: 一个随手写的插件 提供消息防撤回、多开、禁用更新和日志上报等功能。 · GitHub",
-   "url": "https://github.com/X1a0He/X1a0HeWeChatPlugin",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "datawhalechina/hello-agents: 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-   "url": "https://github.com/datawhalechina/hello-agents",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "jackchen0120/vueDataV: 基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫…",
-   "url": "https://github.com/jackchen0120/vueDataV",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "Essence-J/react-web-music: 使用react和antd搭建的pc端音乐平台",
-   "url": "https://github.com/Essence-J/react-web-music",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "chokcoco/iCSS: 不止于 CSS",
-   "url": "https://github.com/chokcoco/iCSS",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "wuxinkai / Repositories",
-   "url": "https://github.com/wuxinkai?tab=repositories",
-   "desc": "全球最大代码托管平台",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "github.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "لینک‌های سابسکریپشن V2Ray",
-   "url": "https://hamedcode.github.io/port-based-v2ray-configs",
-   "desc": "V2Ray 代理订阅链接分享页",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "hamedcode.github.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "逆向工程动向雷达 · Reverse Radar",
-   "url": "https://hedongli1.github.io/reverse-radar",
-   "desc": "逆向工程情报动向聚合雷达",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "hedongli1.github.io",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -1351,36 +601,6 @@
    "host": "hellogithub.com",
    "added": "1601-06-05",
    "profile": "Default"
-  },
-  {
-   "title": "Free configs",
-   "url": "https://hidashimora.github.io/free-vpn-anti-rkn",
-   "desc": "免费代理配置分享页面",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "hidashimora.github.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "代理订阅构建器",
-   "url": "https://itsyebekhe.github.io/PSG",
-   "desc": "代理订阅链接生成构建工具",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "itsyebekhe.github.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "登录界面",
-   "url": "https://jackchen0120.github.io/vueDataV",
-   "desc": "开源项目作者的登录演示页面",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "jackchen0120.github.io",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
   },
   {
    "title": "Awesome Jev · 788 个用 Jev 做的开源项目 · PUNK2898",
@@ -1413,122 +633,12 @@
    "profile": "Default"
   },
   {
-   "title": "raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
-   "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
-   "desc": "GitHub 原始文件直链访问",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "raw.githubusercontent.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt",
-   "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt",
-   "desc": "GitHub 原始文件直链访问",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "raw.githubusercontent.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_BASE…",
-   "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_BASE64.txt",
-   "desc": "GitHub 原始文件直链访问",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "raw.githubusercontent.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5.txt",
-   "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5.txt",
-   "desc": "GitHub 原始文件直链访问",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "raw.githubusercontent.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS.txt",
    "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS.txt",
    "desc": "GitHub 原始文件直链访问",
    "cat": "开发",
    "sub": "代码托管",
    "host": "raw.githubusercontent.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "超棒的盗版",
-   "url": "https://shakil-shahadat.github.io/awesome-piracy",
-   "desc": "盗版资源相关开源清单页",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "shakil-shahadat.github.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "ollama应用全面解析：20个问题精通ollama",
-   "url": "https://techdiylife.github.io/blog/blog.html?category1=c02&blogid=0037",
-   "desc": "Ollama 本地大模型应用教程博客",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "techdiylife.github.io",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "Vue3.0 训练营 2️⃣0️⃣2️⃣1️⃣",
-   "url": "https://vue3.github.io/vue3-News/?sf.gg",
-   "desc": "Vue3 学习训练营教程站",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "vue3.github.io",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "Wyatt's 订阅转换站",
-   "url": "https://wyatt323.github.io",
-   "desc": "代理订阅链接在线转换站",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "wyatt323.github.io",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "ChatGPT 在线免费网站",
-   "url": "https://xiaoxuan6.github.io/chatgpt-server",
-   "desc": "免费在线 ChatGPT 网页服务",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "xiaoxuan6.github.io",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "上升回购",
-   "url": "https://yanggggjie.github.io/rising-repo",
-   "desc": "GitHub 上升趋势项目追踪页",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "yanggggjie.github.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "ArgoSBX一键SSH命令生成器-甬哥ygkkk",
-   "url": "https://yonggekkk.github.io/argosbx",
-   "desc": "ArgoSBX 代理脚本一键命令生成器",
-   "cat": "开发",
-   "sub": "代码托管",
-   "host": "yonggekkk.github.io",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -1573,26 +683,6 @@
    "profile": "Default"
   },
   {
-   "title": "【新提醒】吾爱破解 - 52pojie.cn",
-   "url": "https://www.52pojie.cn/forum.php",
-   "desc": "吾爱破解，国内逆向与软件技术论坛",
-   "cat": "开发",
-   "sub": "逆向与安全",
-   "host": "52pojie.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "【新提醒】13314966370的个人资料 - 吾爱破解 - 52pojie.cn",
-   "url": "https://www.52pojie.cn/home.php?mod=space&uid=2176121&do=profile",
-   "desc": "吾爱破解，国内逆向与软件技术论坛",
-   "cat": "开发",
-   "sub": "逆向与安全",
-   "host": "52pojie.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Greasy Fork - 安全且实用的用户脚本站",
    "url": "https://greasyfork.org/zh-CN",
    "desc": "浏览器用户脚本发布分享平台",
@@ -1609,16 +699,6 @@
    "cat": "开发",
    "sub": "逆向与安全",
    "host": "i.zkaq.cn",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "卡利工具| Kali Linux 工具",
-   "url": "https://www.kali.org/tools",
-   "desc": "Kali Linux 渗透测试系统官网",
-   "cat": "开发",
-   "sub": "逆向与安全",
-   "host": "kali.org",
    "added": "1601-06-04",
    "profile": "Default"
   },
@@ -1873,36 +953,6 @@
    "profile": "Profile 1"
   },
   {
-   "title": "保姆级教程：OpenClaw(Clawdbot)汉化/原版部署（阿里云/Win11/MacOS/Linux）+百炼/Coding Plan API配置+F…",
-   "url": "https://developer.aliyun.com/article/1716472",
-   "desc": "阿里云开发者社区",
-   "cat": "开发",
-   "sub": "文档与教程",
-   "host": "developer.aliyun.com",
-   "added": "1601-06-05",
-   "profile": "Profile 3"
-  },
-  {
-   "title": "Serverless AI, Forever Free for Developers",
-   "url": "https://developer.puter.com/tutorials/serverless-ai-forever-free-for-developers",
-   "desc": "Puter 免费云端 AI 开发者平台",
-   "cat": "开发",
-   "sub": "文档与教程",
-   "host": "developer.puter.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "计算机开发者博客：来自计算机工程团队的新闻和更新",
-   "url": "https://developer.puter.com/blog",
-   "desc": "Puter 免费云端 AI 开发者平台",
-   "cat": "开发",
-   "sub": "文档与教程",
-   "host": "developer.puter.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "微信开发者平台",
    "url": "https://developers.weixin.qq.com/console/product/mp/wx6f081e9b9754a174?tab1=basicInfo&tab2=dev",
    "desc": "微信小程序与公众号开发者平台",
@@ -1953,36 +1003,6 @@
    "profile": "Profile 1"
   },
   {
-   "title": "CSS radar animation",
-   "url": "https://codepen.io/yisi/pen/LVMmQy",
-   "desc": "前端代码在线演示平台",
-   "cat": "开发",
-   "sub": "在线 IDE",
-   "host": "codepen.io",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "巧用overflow及transform实现线条hover效果",
-   "url": "https://codepen.io/Chokcoco/pen/PooBpQe",
-   "desc": "前端代码在线演示平台",
-   "cat": "开发",
-   "sub": "在线 IDE",
-   "host": "codepen.io",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "HuaWei Battery Charging Animation",
-   "url": "https://codepen.io/Chokcoco/pen/vYExwvm",
-   "desc": "前端代码在线演示平台",
-   "cat": "开发",
-   "sub": "在线 IDE",
-   "host": "codepen.io",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
    "title": "ripple-button",
    "url": "https://codepen.io/xboxyan/pen/Jmvyex",
    "desc": "前端代码在线演示平台",
@@ -2003,32 +1023,12 @@
    "profile": "Profile 1"
   },
   {
-   "title": "Firebase Studio",
-   "url": "https://idx.google.com",
-   "desc": "Google 云端 AI 开发环境 Firebase Studio",
-   "cat": "开发",
-   "sub": "在线 IDE",
-   "host": "idx.google.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Home - Replit",
    "url": "https://replit.com/~",
    "desc": "浏览器在线编程与部署平台",
    "cat": "开发",
    "sub": "在线 IDE",
    "host": "replit.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "tingfeng - Firebase Studio",
-   "url": "https://studio.firebase.google.com/tingfeng-42241557",
-   "desc": "Google 云端 AI 应用开发工作台",
-   "cat": "开发",
-   "sub": "在线 IDE",
-   "host": "studio.firebase.google.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -2193,16 +1193,6 @@
    "profile": "Default"
   },
   {
-   "title": "修仙宝阁",
-   "url": "https://lucky.5202030.xyz/home",
-   "desc": "资源分享站",
-   "cat": "其他",
-   "sub": "",
-   "host": "lucky.5202030.xyz",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "MixPartners - 小组讨论",
    "url": "https://mixpartners.ag/panel/?w=payments",
    "desc": "MixPartners 会员合作讨论面板",
@@ -2263,32 +1253,12 @@
    "profile": "Default"
   },
   {
-   "title": "寻雷科技云控平台-官网",
-   "url": "https://xunleiyk.com",
-   "desc": "寻雷科技多账号云控平台官方网站",
-   "cat": "其他",
-   "sub": "",
-   "host": "xunleiyk.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
    "title": "Windows",
    "url": "https://zh.altapps.net/platform/windows",
    "desc": "软件替代品查找站，发现同类应用",
    "cat": "其他",
    "sub": "",
    "host": "zh.altapps.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Meta Business Suite",
-   "url": "https://business.facebook.com/latest/business_home?nav_ref=bm_home_redirect&bm_redirect_migration=true&business_id=1658694561822570",
-   "desc": "Meta Business Suite 企业主页管理后台",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "business.facebook.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -2303,38 +1273,8 @@
    "profile": "Default"
   },
   {
-   "title": "(19) Discord",
-   "url": "https://discord.com/quest-home",
-   "desc": "语音与社区聊天工具",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "discord.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Discord",
    "url": "https://discord.com/guild-discovery",
-   "desc": "语音与社区聊天工具",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "discord.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "(233) Discord | \"liza's Chat\"",
-   "url": "https://discord.com/channels/1437224403401179138/1498508944543580194",
-   "desc": "语音与社区聊天工具",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "discord.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "(198) Discord | #•-commands",
-   "url": "https://discord.com/channels/1461555807731585158/1473159205048553705",
    "desc": "语音与社区聊天工具",
    "cat": "社区论坛",
    "sub": "国际社区",
@@ -2373,26 +1313,6 @@
    "profile": "Default"
   },
   {
-   "title": "常用的几个磁力搜索网站分享 - 资源荟萃 - LINUX DO",
-   "url": "https://linux.do/t/topic/209847",
-   "desc": "LINUX DO 论坛，资源与技术交流社区",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "linux.do",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "最新人工智能话题 - LINUX DO",
-   "url": "https://linux.do/tag/444-tag/444",
-   "desc": "LINUX DO 论坛，资源与技术交流社区",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "linux.do",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
    "title": "推广版块",
    "url": "https://www.nodeseek.com/categories/promotion",
    "desc": "NodeSeek 主机论坛",
@@ -2413,16 +1333,6 @@
    "profile": "Default"
   },
   {
-   "title": "聊天GPT",
-   "url": "https://www.reddit.com/r/ChatGPT/?f=flair_name%3A%22Jailbreak%22",
-   "desc": "国际版论坛聚合社区",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "reddit.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "Reddit - 潜入任何内容",
    "url": "https://www.reddit.com",
    "desc": "国际版论坛聚合社区",
@@ -2430,26 +1340,6 @@
    "sub": "国际社区",
    "host": "reddit.com",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "ChatGPTJailbreak",
-   "url": "https://www.reddit.com/r/ChatGPTJailbreak",
-   "desc": "国际版论坛聚合社区",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "reddit.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "r/popular",
-   "url": "https://www.reddit.com/r/popular",
-   "desc": "国际版论坛聚合社区",
-   "cat": "社区论坛",
-   "sub": "国际社区",
-   "host": "reddit.com",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -2483,28 +1373,8 @@
    "profile": "Default"
   },
   {
-   "title": "Agent/Skills/Teams 架构演进过程及技术选型之道",
-   "url": "https://mp.weixin.qq.com/s/Z8JYgxUdHSLo4ywgyt4ljg?clicktime=1773754591&enterid=1773754591&scene=90&subscene=236&xtrack=1",
-   "desc": "微信公众平台，公众号内容管理后台",
-   "cat": "社区论坛",
-   "sub": "中文社区",
-   "host": "mp.weixin.qq.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
    "title": "zhihu.com",
    "url": "https://www.zhihu.com",
-   "desc": "知乎问答社区",
-   "cat": "社区论坛",
-   "sub": "中文社区",
-   "host": "zhihu.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "(4 封私信) Obsidian和思源笔记现在推荐哪个？",
-   "url": "https://www.zhihu.com/question/587284718",
    "desc": "知乎问答社区",
    "cat": "社区论坛",
    "sub": "中文社区",
@@ -2583,16 +1453,6 @@
    "profile": "Default"
   },
   {
-   "title": "应用发布 | Mobilism",
-   "url": "https://forum.mobilism.me/viewforum.php?f=399",
-   "desc": "安卓破解应用与电子书资源发布论坛",
-   "cat": "社区论坛",
-   "sub": "综合",
-   "host": "forum.mobilism.me",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Index",
    "url": "https://forum.mobilism.me",
    "desc": "安卓破解应用与电子书资源发布论坛",
@@ -2640,16 +1500,6 @@
    "sub": "综合",
    "host": "linktr.ee",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "taiwanhot2021 | Twitter, Instagram, Facebook",
-   "url": "https://linktr.ee/taiwanhot2021",
-   "desc": "Linktree 个人多链接聚合页平台",
-   "cat": "社区论坛",
-   "sub": "综合",
-   "host": "linktr.ee",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -2713,32 +1563,12 @@
    "profile": "Default"
   },
   {
-   "title": "Open Github 社区",
-   "url": "https://open.itc.cn/?tab=trends",
-   "desc": "Open GitHub 中文开源项目交流社区",
-   "cat": "社区论坛",
-   "sub": "综合",
-   "host": "open.itc.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Peakd | 所有事物，排名",
    "url": "https://peakd.io",
    "desc": "PeakD，Hive 区块链社交博客前端",
    "cat": "社区论坛",
    "sub": "综合",
    "host": "peakd.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "QQ开放平台｜机器人列表",
-   "url": "https://q.qq.com/qqbot/openclaw/index.html",
-   "desc": "QQ 开放平台机器人列表与管理页",
-   "cat": "社区论坛",
-   "sub": "综合",
-   "host": "q.qq.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -2790,16 +1620,6 @@
    "sub": "地图与天气",
    "host": "aishenqi.net",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "AI提示词社区 | 发现与分享优质提示词",
-   "url": "https://www.aishort.top/community-prompts",
-   "desc": "AI 提示词分享社区，内置 ChatGPT 模板库",
-   "cat": "实用工具",
-   "sub": "地图与天气",
-   "host": "aishort.top",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -2863,26 +1683,6 @@
    "profile": "Default"
   },
   {
-   "title": "DeepLaunch.io - The Ultimate Directory for Online Tools and Resources",
-   "url": "https://deeplaunch.io/categories/directory",
-   "desc": "在线工具与资源收录目录，挖掘效率网站",
-   "cat": "实用工具",
-   "sub": "翻译",
-   "host": "deeplaunch.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "fanyi.baidu.com",
-   "url": "https://fanyi.baidu.com/mtpe-individual/transText?query=%E5%8E%BB%E9%87%8D&lang=zh2en&ext_channel=Aldtype01",
-   "desc": "百度翻译",
-   "cat": "实用工具",
-   "sub": "翻译",
-   "host": "fanyi.baidu.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
    "title": "在线Cookie格式化工具 - KGtools",
    "url": "https://www.kgtools.cn/compression/cookie",
    "desc": "在线 Cookie 格式化等开发者小工具集",
@@ -2943,16 +1743,6 @@
    "profile": "Default"
   },
   {
-   "title": "BigShare - User Panel",
-   "url": "https://bigshare.io/user_panel",
-   "desc": "文件托管分享平台，上传下载可赚收益",
-   "cat": "实用工具",
-   "sub": "图床",
-   "host": "bigshare.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "路过图床 - 免费图片上传, 专业图片外链, 免费公共图床",
    "url": "https://imgchr.com",
    "desc": "免费公共图床，支持图片上传与外链分享",
@@ -2995,16 +1785,6 @@
   {
    "title": "Free AI Image Generator No Sign-up, Unlimited Text to Image AI",
    "url": "https://imagefree.net",
-   "desc": "免费免注册 AI 文生图与图片编辑器",
-   "cat": "实用工具",
-   "sub": "图片工具",
-   "host": "imagefree.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "免费 AI 图片编辑器，无限图生图 AI，无需注册",
-   "url": "https://imagefree.net/zh/ai-photo-editor",
    "desc": "免费免注册 AI 文生图与图片编辑器",
    "cat": "实用工具",
    "sub": "图片工具",
@@ -3153,36 +1933,6 @@
    "profile": "Default"
   },
   {
-   "title": "在线Markdown编辑器 - bejson在线工具",
-   "url": "https://www.bejson.com/md",
-   "desc": "程序员在线工具箱，JSON 校验与 JWT 解密",
-   "cat": "实用工具",
-   "sub": "在线工具",
-   "host": "bejson.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "在线Gzip加密解密工具-Bejson.com",
-   "url": "https://www.bejson.com/encrypt/gzip",
-   "desc": "程序员在线工具箱，JSON 校验与 JWT 解密",
-   "cat": "实用工具",
-   "sub": "在线工具",
-   "host": "bejson.com",
-   "added": "1601-06-04",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "JWT解密 | JWT解码",
-   "url": "https://www.box3.cn/tools/jwt.html",
-   "desc": "在线 JWT 解密解码的轻量工具站",
-   "cat": "实用工具",
-   "sub": "在线工具",
-   "host": "box3.cn",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "/packer/",
    "url": "http://dean.edwards.name/packer",
    "desc": "经典 JS 代码压缩混淆在线工具 Packer",
@@ -3260,16 +2010,6 @@
    "sub": "在线工具",
    "host": "it-tools.tech",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "免费在线短信接收，虚拟电话号码 - 接码号",
-   "url": "https://jiemahao.com/phone-numbers",
-   "desc": "免费在线短信接码，提供虚拟手机号",
-   "cat": "实用工具",
-   "sub": "在线工具",
-   "host": "jiemahao.com",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -3363,16 +2103,6 @@
    "profile": "Default"
   },
   {
-   "title": "文本重复器工具：无限次复制任何文本 – SEOStudio",
-   "url": "https://seostudio.tools/zh/text-repeater",
-   "desc": "SEO 与文本工具合集",
-   "cat": "实用工具",
-   "sub": "在线工具",
-   "host": "seostudio.tools",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "在线AES128解密",
    "url": "https://tool.box3.cn/aes-decrypt-128-256.html",
    "desc": "在线 AES128 等常见加密解密工具",
@@ -3413,16 +2143,6 @@
    "profile": "Default"
   },
   {
-   "title": "HTML 在线运行 - 锤子在线工具",
-   "url": "https://www.toolhelper.cn/Html/Preview",
-   "desc": "锤子在线工具箱，文本处理代码运行",
-   "cat": "实用工具",
-   "sub": "在线工具",
-   "host": "toolhelper.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "上传图像以放大与增强",
    "url": "https://www.upscale.media/zh/upload",
    "desc": "AI 图片无损放大与画质增强工具",
@@ -3453,16 +2173,6 @@
    "profile": "Default"
   },
   {
-   "title": "Internet Speed Test | Check Broadband Speed",
-   "url": "https://fiber.google.com/speedtest",
-   "desc": "谷歌官方网络宽带测速工具",
-   "cat": "网络",
-   "sub": "测速与查询",
-   "host": "fiber.google.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "IP Address Lookup / IPv4 / IPv6 - IP.SB",
    "url": "https://ip.sb",
    "desc": "IP 查询",
@@ -3471,16 +2181,6 @@
    "host": "ip.sb",
    "added": "1601-06-05",
    "profile": "Profile 3"
-  },
-  {
-   "title": "IP Address - 纯真IP数据库",
-   "url": "https://ipaddr.vercel.app",
-   "desc": "基于纯真库的 IP 地址查询工具",
-   "cat": "网络",
-   "sub": "测速与查询",
-   "host": "ipaddr.vercel.app",
-   "added": "1601-06-04",
-   "profile": "Default"
   },
   {
    "title": "IP地址信息和纯净度检测",
@@ -3673,46 +2373,6 @@
    "profile": "Default"
   },
   {
-   "title": "MiMo-V2.5 API Pricing (Free) - 65 Providers",
-   "url": "https://lmspeed.net/model/mimo-v2-5",
-   "desc": "共享免费 AI API 密钥的聚合站",
-   "cat": "网络",
-   "sub": "机场与节点",
-   "host": "lmspeed.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "www.daseinai.xyz gpt-5.5 API Audit",
-   "url": "https://lmspeed.net/audit/6YhEmNK7QKQ4lNGm",
-   "desc": "共享免费 AI API 密钥的聚合站",
-   "cat": "网络",
-   "sub": "机场与节点",
-   "host": "lmspeed.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Free API Access General - LLM API Providers",
-   "url": "https://lmspeed.net/provider/category/free",
-   "desc": "共享免费 AI API 密钥的聚合站",
-   "cat": "网络",
-   "sub": "机场与节点",
-   "host": "lmspeed.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI Model Benchmarks & LLM Leaderboard",
-   "url": "https://lmspeed.net/model",
-   "desc": "共享免费 AI API 密钥的聚合站",
-   "cat": "网络",
-   "sub": "机场与节点",
-   "host": "lmspeed.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "一分机场",
    "url": "https://login.yfjc.xyz",
    "desc": "一分机场节点订阅登录面板",
@@ -3743,28 +2403,8 @@
    "profile": "Default"
   },
   {
-   "title": "最新科技与创作话题 - NodeLoc",
-   "url": "https://www.nodeloc.com/c/technology/7",
-   "desc": "节点论坛，机场测评与网络交流",
-   "cat": "网络",
-   "sub": "机场与节点",
-   "host": "nodeloc.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Open Proxy List",
    "url": "https://openproxylist.com",
-   "desc": "免费 V2Ray 代理节点列表站",
-   "cat": "网络",
-   "sub": "机场与节点",
-   "host": "openproxylist.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "开放代理列表",
-   "url": "https://openproxylist.com/v2ray",
    "desc": "免费 V2Ray 代理节点列表站",
    "cat": "网络",
    "sub": "机场与节点",
@@ -3913,16 +2553,6 @@
    "profile": "Default"
   },
   {
-   "title": "v2ray转clash节点 - v2rayse.com",
-   "url": "https://v1.v2rayse.com/v2ray-clash",
-   "desc": "v2ray 转 clash 节点在线转换工具",
-   "cat": "网络",
-   "sub": "机场与节点",
-   "host": "v1.v2rayse.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "节点转换工具 - v2rayse",
    "url": "https://v2.v2rayse.com/node-convert",
    "desc": "代理节点格式在线转换工具",
@@ -3940,16 +2570,6 @@
    "sub": "机场与节点",
    "host": "v2b.pp.st",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "V2rayNode 2026每日更新",
-   "url": "https://v2raynode.github.io",
-   "desc": "每日更新免费代理节点的分享页",
-   "cat": "网络",
-   "sub": "机场与节点",
-   "host": "v2raynode.github.io",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -4103,26 +2723,6 @@
    "profile": "Default"
   },
   {
-   "title": "Free Trojan Proxy List - Just Updated Trojan-GFW/Trojan-Go Nodes",
-   "url": "https://getfreeproxy.com/lists/trojan-proxy-list",
-   "desc": "每十分钟验证更新的免费代理列表",
-   "cat": "网络",
-   "sub": "免费节点",
-   "host": "getfreeproxy.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Free US Proxy List - Just Updated United States IPs",
-   "url": "https://getfreeproxy.com/lists/us-proxy-list",
-   "desc": "每十分钟验证更新的免费代理列表",
-   "cat": "网络",
-   "sub": "免费节点",
-   "host": "getfreeproxy.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "85LA Free Proxies",
    "url": "https://pl.85la.com",
    "desc": "85LA 免费 HTTP 代理 IP 列表",
@@ -4203,16 +2803,6 @@
    "profile": "Default"
   },
   {
-   "title": "机器人",
-   "url": "https://tgnav.github.io/robot",
-   "desc": "TG 精选频道与机器人导航资源合集",
-   "cat": "营销工具",
-   "sub": "流量与推广",
-   "host": "tgnav.github.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "首页",
    "url": "https://www.tgnav.org",
    "desc": "Telegram 中文频道群组导航站",
@@ -4221,16 +2811,6 @@
    "host": "tgnav.org",
    "added": "1601-06-05",
    "profile": "Default"
-  },
-  {
-   "title": "tgNetdisc",
-   "url": "https://tgnetdisc.yohann.pp.ua",
-   "desc": "TG 网盘资源搜索下载与分享站点",
-   "cat": "营销工具",
-   "sub": "流量与推广",
-   "host": "tgnetdisc.yohann.pp.ua",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
   },
   {
    "title": "电报组列表",
@@ -4273,16 +2853,6 @@
    "profile": "Default"
   },
   {
-   "title": "BT1207最新地址发布页",
-   "url": "https://bt1207so.top/downpp",
-   "desc": "BT1207 磁力链接搜索引擎",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "bt1207so.top",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Torrent Search Engine - BT4G",
    "url": "https://bt4gprx.com",
    "desc": "BT4G 磁力种子搜索引擎",
@@ -4293,38 +2863,8 @@
    "profile": "Default"
   },
   {
-   "title": "请稍候…",
-   "url": "https://bt4gprx.com/search?q=%E5%AD%A6%E7%94%9F",
-   "desc": "BT4G 磁力种子搜索引擎",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "bt4gprx.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "BtGoogle - Best torrent search site",
    "url": "https://btgoogle.com",
-   "desc": "谷歌式界面的磁力种子搜索站",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "btgoogle.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "高中生 Torrent Search Result - BtGoogle, Best torrent search site",
-   "url": "https://btgoogle.com/search?q=%E9%AB%98%E4%B8%AD%E7%94%9F",
-   "desc": "谷歌式界面的磁力种子搜索站",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "btgoogle.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Search: 初中生 - BtGoogle",
-   "url": "https://btgoogle.com/search?q=%E5%88%9D%E4%B8%AD%E7%94%9F",
    "desc": "谷歌式界面的磁力种子搜索站",
    "cat": "影音媒体",
    "sub": "磁力与下载",
@@ -4353,32 +2893,12 @@
    "profile": "Default"
   },
   {
-   "title": "BT之家1LOU站：高清电影、剧集、音乐BT种子磁力下载资源大全",
-   "url": "https://byepiao.com/1569.html",
-   "desc": "BT 磁力种子下载站，影视资源大全",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "byepiao.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "理白嫖资源站-理所应当地白嫖资源",
    "url": "https://byepiao.com/?golink=aHR0cHM6Ly93d3cuMWxvdS5jYy8%3D",
    "desc": "BT 磁力种子下载站，影视资源大全",
    "cat": "影音媒体",
    "sub": "磁力与下载",
    "host": "byepiao.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "cf.trackerslist.com/all.txt",
-   "url": "https://cf.trackerslist.com/all.txt",
-   "desc": "BT 下载 Tracker 列表在线订阅源",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "cf.trackerslist.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -4395,16 +2915,6 @@
   {
    "title": "磁力搜索",
    "url": "https://cilisousuo.co",
-   "desc": "磁力链接搜索引擎",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "cilisousuo.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "“幼女”的搜索结果 - 磁力搜索",
-   "url": "https://cilisousuo.co/search?q=%E5%B9%BC%E5%A5%B3",
    "desc": "磁力链接搜索引擎",
    "cat": "影音媒体",
    "sub": "磁力与下载",
@@ -4443,16 +2953,6 @@
    "profile": "Default"
   },
   {
-   "title": "Flow - 4月18日 11:41",
-   "url": "https://labs.google/fx/zh/tools/flow/project/28c243e0-9583-4de3-8297-7ae7933ef25c",
-   "desc": "谷歌实验性 AI 产品体验平台",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "labs.google",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Flow - 4月22日 22:05",
    "url": "https://labs.google/fx/zh/tools/flow/project/9d289ee0-06c3-4d2e-9dc5-c56f06a58c0b",
    "desc": "谷歌实验性 AI 产品体验平台",
@@ -4485,16 +2985,6 @@
   {
    "title": "動漫花園資源網 - 動漫愛好者的自由交流平台",
    "url": "http://share.dmhy.org/topics/view/706757KingdomS6061080PMP4.html",
-   "desc": "动漫花园资源分享与磁力发布站",
-   "cat": "影音媒体",
-   "sub": "磁力与下载",
-   "host": "share.dmhy.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "日劇 - 動漫花園資源網 - 動漫愛好者的自由交流平台",
-   "url": "http://share.dmhy.org/topics/list/sort_id/6",
    "desc": "动漫花园资源分享与磁力发布站",
    "cat": "影音媒体",
    "sub": "磁力与下载",
@@ -4583,16 +3073,6 @@
    "profile": "Default"
   },
   {
-   "title": "新标签页",
-   "url": "https://zh.savefrom.net/228pY",
-   "desc": "解析下载各平台视频的在线工具",
-   "cat": "影音媒体",
-   "sub": "视频解析与下载",
-   "host": "zh.savefrom.net",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "软件下载",
    "url": "https://www.24kdh.vip/favorites/ruanjianxiazai",
    "desc": "提供软件下载与影视资源的站点",
@@ -4661,16 +3141,6 @@
    "host": "henghengmao.com",
    "added": "1601-06-05",
    "profile": "Profile 1"
-  },
-  {
-   "title": "Skill商店_OpenClaw Skill技能下载_CocoLoop更安全的Skill市场",
-   "url": "https://hub.cocoloop.cn",
-   "desc": "下载 OpenClaw Skill 技能的安全市场",
-   "cat": "影音媒体",
-   "sub": "网盘与传输",
-   "host": "hub.cocoloop.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
   },
   {
    "title": "IT熊猫-计算机书籍下载",
@@ -4773,16 +3243,6 @@
    "profile": "Default"
   },
   {
-   "title": "Home - Google Drive",
-   "url": "https://drive.google.com/drive/u/0/home",
-   "desc": "谷歌云盘文件存储与共享服务",
-   "cat": "影音媒体",
-   "sub": "网盘与存储",
-   "host": "drive.google.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "文件夹结构树生成器 v2.0",
    "url": "https://fileexplorer.to2ai.workers.dev",
    "desc": "生成文件夹结构树的在线小工具",
@@ -4833,16 +3293,6 @@
    "profile": "Default"
   },
   {
-   "title": "TeraBox - Free Cloud Storage Up To 1 TB, Send Large Files Online",
-   "url": "https://www.terabox.com/chinese/main?category=all",
-   "desc": "提供 1TB 免费云存储的国外网盘",
-   "cat": "影音媒体",
-   "sub": "网盘与存储",
-   "host": "terabox.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "喂养",
    "url": "https://www.bandlab.com/feed/trending",
    "desc": "免费在线音乐创作与协作社交平台",
@@ -4873,106 +3323,6 @@
    "profile": "Profile 1"
   },
   {
-   "title": "Next.js(16)+AI+SEO_哔哩哔哩_bilibili",
-   "url": "https://www.bilibili.com/video/BV1P9CxBsEUA",
-   "desc": "B站，视频弹幕网站",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "bilibili.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "企业级AI应用开发实战(js版)_哔哩哔哩_bilibili",
-   "url": "https://www.bilibili.com/cheese/play/ep2413990?t=1494&csource=common_hp_history_null",
-   "desc": "B站，视频弹幕网站",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "bilibili.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "如果不知道这些小技巧，你的Mac触控板就浪费了！_哔哩哔哩 (゜",
-   "url": "https://www.bilibili.com/video/BV127411P7Z2?seid=12443045221208090395",
-   "desc": "B站，视频弹幕网站",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "bilibili.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "2021我最喜欢的MACBOOK超酷小技巧_哔哩哔哩 (゜",
-   "url": "https://www.bilibili.com/video/BV1fv411x7SC",
-   "desc": "B站，视频弹幕网站",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "bilibili.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "【Mac】13个 Mac 必装软件，效率提升700%，堪称神器！_哔哩哔哩 (゜",
-   "url": "https://www.bilibili.com/video/BV1U5411s7RU",
-   "desc": "B站，视频弹幕网站",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "bilibili.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "【vue3.x】2021最新版Vue全套课程#Web框架学习基础+Vue全家桶+Vue实战项目（已完结）_哔哩哔哩 (゜",
-   "url": "https://www.bilibili.com/video/BV1Pz4y1S7Uv?p=94",
-   "desc": "B站，视频弹幕网站",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "bilibili.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "douyin.com",
-   "url": "https://www.douyin.com/user/self",
-   "desc": "抖音短视频内容平台",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "douyin.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "最佳歌手的抖音 - 抖音",
-   "url": "https://www.douyin.com/user/self?modal_id=7622979867391296874&showTab=record",
-   "desc": "抖音短视频内容平台",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "douyin.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "Search Results - Nunflix",
-   "url": "https://nunflix.org/search/%E8%9D%99%E8%9D%A0%E4%BE%A0",
-   "desc": "在线搜索观看电影剧集的流媒体站",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "nunflix.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "DC Universe - Movies",
-   "url": "https://nunflix.org/explore/dc?network=429",
-   "desc": "在线搜索观看电影剧集的流媒体站",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "nunflix.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Nunflix - Watch Movies & TV Shows Online",
    "url": "https://nunflix.org",
    "desc": "在线搜索观看电影剧集的流媒体站",
@@ -4993,28 +3343,8 @@
    "profile": "Default"
   },
   {
-   "title": "(167) Ollama + Hugging Face：给Ollama添加任何大模型",
-   "url": "https://www.youtube.com/watch?v=D1LeQpMS_zg",
-   "desc": "全球最大视频平台",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "youtube.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "(22) YouTube",
    "url": "https://www.youtube.com",
-   "desc": "全球最大视频平台",
-   "cat": "影音媒体",
-   "sub": "影视与视频",
-   "host": "youtube.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "(22) 币圈番茄哥",
-   "url": "https://www.youtube.com/@%E5%B8%81%E5%9C%88%E7%95%AA%E8%8C%84%E5%93%A5",
    "desc": "全球最大视频平台",
    "cat": "影音媒体",
    "sub": "影视与视频",
@@ -5081,26 +3411,6 @@
    "host": "mnggiflab.com",
    "added": "1601-06-04",
    "profile": "Default"
-  },
-  {
-   "title": "AIGC 专区 - 视频生成 · 魔搭社区",
-   "url": "https://www.modelscope.cn/aigc/videoGeneration?tab=txt",
-   "desc": "魔搭社区，开源 AI 模型下载与体验",
-   "cat": "影音媒体",
-   "sub": "影视与音乐",
-   "host": "modelscope.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Mac云课堂的个人空间",
-   "url": "https://space.bilibili.com/41062266/video",
-   "desc": "B站用户个人空间主页",
-   "cat": "影音媒体",
-   "sub": "影视与音乐",
-   "host": "space.bilibili.com",
-   "added": "1601-06-03",
-   "profile": "Profile 1"
   },
   {
    "title": "云视频管家",
@@ -5175,16 +3485,6 @@
   {
    "title": "爱玩",
    "url": "https://aiwan.pro",
-   "desc": "爱玩游戏平台，新游内测与福利发放站",
-   "cat": "游戏",
-   "sub": "游戏资源",
-   "host": "aiwan.pro",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "内测游戏-爱玩",
-   "url": "https://aiwan.pro/category/ncyx",
    "desc": "爱玩游戏平台，新游内测与福利发放站",
    "cat": "游戏",
    "sub": "游戏资源",
@@ -5313,16 +3613,6 @@
    "profile": "Default"
   },
   {
-   "title": "30余种加密编码类型的密文特征分析（建议收藏）-腾讯云开发者社区-腾讯云",
-   "url": "https://cloud.tencent.com/developer/article/1749430",
-   "desc": "腾讯云开发者社区与技术文档站",
-   "cat": "云与基建",
-   "sub": "服务器与面板",
-   "host": "cloud.tencent.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "ComfyICU - Serverless ComfyUI Cloud",
    "url": "https://comfy.icu",
    "desc": "Serverless ComfyUI 云端渲染平台",
@@ -5331,16 +3621,6 @@
    "host": "comfy.icu",
    "added": "1601-06-04",
    "profile": "Default"
-  },
-  {
-   "title": "阿里云控制台首页",
-   "url": "https://home.console.aliyun.com/home/dashboard/ProductAndService",
-   "desc": "阿里云产品统一管理控制台",
-   "cat": "云与基建",
-   "sub": "服务器与面板",
-   "host": "home.console.aliyun.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
   },
   {
    "title": "疾风云地址发布页",
@@ -5400,16 +3680,6 @@
    "sub": "服务器与面板",
    "host": "mypikpak.com",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "仪表盘",
-   "url": "https://skyppp.klyfunny.org",
-   "desc": "云节点服务用户仪表盘",
-   "cat": "云与基建",
-   "sub": "服务器与面板",
-   "host": "skyppp.klyfunny.org",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -5493,16 +3763,6 @@
    "profile": "Default"
   },
   {
-   "title": "管理云服务器",
-   "url": "https://www.wuyunidc.com/service?groupid=305",
-   "desc": "云服务器租用与 IDC 服务商",
-   "cat": "云与基建",
-   "sub": "服务器与面板",
-   "host": "wuyunidc.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "产品详情",
    "url": "https://www.wuyunidc.com/servicedetail?id=1085",
    "desc": "云服务器租用与 IDC 服务商",
@@ -5553,36 +3813,6 @@
    "profile": "Default"
   },
   {
-   "title": "Cloudflare域名注册商 - 以成本价搜索和购买域名",
-   "url": "https://www.cloudflare.com/domains",
-   "desc": "Cloudflare CDN 与安全服务",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "cloudflare.com",
-   "added": "1601-06-05",
-   "profile": "Profile 3"
-  },
-  {
-   "title": "轻量应用服务器智能云控制台",
-   "url": "https://console.bce.baidu.com/ls",
-   "desc": "百度智能云控制台",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "console.bce.baidu.com",
-   "added": "1601-06-05",
-   "profile": "Profile 3"
-  },
-  {
-   "title": "服务器 - 轻量云 - 控制台",
-   "url": "https://console.cloud.tencent.com/lighthouse/instance/index?rid=25",
-   "desc": "腾讯云轻量服务器管理控制台",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "console.cloud.tencent.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Siray.ai",
    "url": "https://console.siray.ai/logs",
    "desc": "Siray AI 服务管理控制台",
@@ -5603,16 +3833,6 @@
    "profile": "Default"
   },
   {
-   "title": "火山方舟管理控制台",
-   "url": "https://console.volcengine.com/ark/region:ark+cn-beijing/experience/chat?id=excs-202505222014-[t8nRIg4ZxagJDTlFGlXW-]",
-   "desc": "火山引擎方舟大模型控制台",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "console.volcengine.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "消息中心-火山引擎",
    "url": "https://console.volcengine.com/message/innermsg",
    "desc": "火山引擎方舟大模型控制台",
@@ -5621,36 +3841,6 @@
    "host": "console.volcengine.com",
    "added": "1601-06-05",
    "profile": "Profile 1"
-  },
-  {
-   "title": "主页",
-   "url": "https://dash.cloudflare.com/19db0c4f8f31543908f620f6b8ca9c6a",
-   "desc": "Cloudflare 控制台",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "dash.cloudflare.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "tiingfengai.dpdns.org | tiingfengai.dpdns.org | Q13645947407@gmail.com's Account",
-   "url": "https://dash.cloudflare.com/f4642bed361b45d7c48cf8654c8dbf23/tiingfengai.dpdns.org",
-   "desc": "Cloudflare 控制台",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "dash.cloudflare.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "DNS | Records | alltheluxora.com | Dongxin05301115@gmail.com's Account",
-   "url": "https://dash.cloudflare.com/b75d1dcf4b8c05496f530bb54fb7205e/alltheluxora.com/dns/records",
-   "desc": "Cloudflare 控制台",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "dash.cloudflare.com",
-   "added": "1601-06-05",
-   "profile": "Profile 3"
   },
   {
    "title": "Cloudflare Dashboard",
@@ -5703,16 +3893,6 @@
    "profile": "Default"
   },
   {
-   "title": "DigitalPlat Dashboard",
-   "url": "https://dashboard.digitalplat.org/dashboard",
-   "desc": "DigitalPlat 域名服务控制面板",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "dashboard.digitalplat.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "OpenAdapter 网关",
    "url": "https://dashboard.openadapter.in",
    "desc": "OpenAdapter 网关管理控制台",
@@ -5761,16 +3941,6 @@
    "host": "onelighter.site",
    "added": "1601-06-05",
    "profile": "Default"
-  },
-  {
-   "title": "官网-OSS管理控制台",
-   "url": "https://oss.console.aliyun.com/bucket/oss-cn-hangzhou/xl-ec-web/object/upload?path=assets%2Fjs%2F",
-   "desc": "阿里云对象存储 OSS 管理控制台",
-   "cat": "云与基建",
-   "sub": "控制台与面板",
-   "host": "oss.console.aliyun.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
   },
   {
    "title": "OSS Gallery",
@@ -5883,16 +4053,6 @@
    "profile": "Default"
   },
   {
-   "title": "临时邮箱 – 立即生成安全邮箱",
-   "url": "https://22.do/zh",
-   "desc": "一键生成一次性临时邮箱，秒收验证邮件",
-   "cat": "账号服务",
-   "sub": "发卡与支付",
-   "host": "22.do",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "Temp Mail – Disposable Temporary Email",
    "url": "https://22.do",
    "desc": "一键生成一次性临时邮箱，秒收验证邮件",
@@ -5900,16 +4060,6 @@
    "sub": "发卡与支付",
    "host": "22.do",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "收件箱 – 使用临时邮箱，在线保护您的邮件隐私！",
-   "url": "https://22.do/zh/inbox",
-   "desc": "一键生成一次性临时邮箱，秒收验证邮件",
-   "cat": "账号服务",
-   "sub": "发卡与支付",
-   "host": "22.do",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -5923,52 +4073,12 @@
    "profile": "Default"
   },
   {
-   "title": "Dashboard - Payhip",
-   "url": "https://payhip.com/dashboard?r=1",
-   "desc": "数字商品销售平台",
-   "cat": "账号服务",
-   "sub": "发卡与支付",
-   "host": "payhip.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Tingfeng AI44x - Payhip",
-   "url": "https://payhip.com/b/e82M1",
-   "desc": "数字商品销售平台",
-   "cat": "账号服务",
-   "sub": "发卡与支付",
-   "host": "payhip.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Customers - Payhip",
    "url": "https://payhip.com/customers",
    "desc": "数字商品销售平台",
    "cat": "账号服务",
    "sub": "发卡与支付",
    "host": "payhip.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "PayPal: Summary",
-   "url": "https://www.paypal.com/myaccount",
-   "desc": "PayPal 国际在线支付与跨境收款平台",
-   "cat": "账号服务",
-   "sub": "发卡与支付",
-   "host": "paypal.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "PayPal: 账户首页",
-   "url": "https://www.paypal.com/myaccount/summary",
-   "desc": "PayPal 国际在线支付与跨境收款平台",
-   "cat": "账号服务",
-   "sub": "发卡与支付",
-   "host": "paypal.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -6003,32 +4113,12 @@
    "profile": "Default"
   },
   {
-   "title": "Welcome to 2captcha.com",
-   "url": "https://2captcha.com/enterpage",
-   "desc": "人工验证码识别打码与接单赚钱平台",
-   "cat": "账号服务",
-   "sub": "接码与短信",
-   "host": "2captcha.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "解决验证码赚钱",
    "url": "https://2captcha.com/cabinet",
    "desc": "人工验证码识别打码与接单赚钱平台",
    "cat": "账号服务",
    "sub": "接码与短信",
    "host": "2captcha.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "短信激活",
-   "url": "https://5sim.net/zh",
-   "desc": "海外虚拟号码租用，短信验证码接码平台",
-   "cat": "账号服务",
-   "sub": "接码与短信",
-   "host": "5sim.net",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -6099,26 +4189,6 @@
    "cat": "账号服务",
    "sub": "临时邮箱",
    "host": "emailnator.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Email: Bito Email Verification Code 839540 - eTempMail.com",
-   "url": "https://etempmail.com/email?id=1",
-   "desc": "免费 Edu 教育邮箱临时邮件服务",
-   "cat": "账号服务",
-   "sub": "临时邮箱",
-   "host": "etempmail.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Temp Mail - 免费Edu / .COM临时邮件",
-   "url": "https://etempmail.com/zh",
-   "desc": "免费 Edu 教育邮箱临时邮件服务",
-   "cat": "账号服务",
-   "sub": "临时邮箱",
-   "host": "etempmail.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -6203,16 +4273,6 @@
    "profile": "Default"
   },
   {
-   "title": "Temp Mail - 临时性 - 匿名电子邮件",
-   "url": "https://temp-mail.org/zh",
-   "desc": "知名一次性临时邮箱，自动刷新收信",
-   "cat": "账号服务",
-   "sub": "临时邮箱",
-   "host": "temp-mail.org",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "Temp Mail - Disposable Temporary Email",
    "url": "https://temp-mail.org",
    "desc": "知名一次性临时邮箱，自动刷新收信",
@@ -6283,16 +4343,6 @@
    "profile": "Default"
   },
   {
-   "title": "晴辰云 - 用户门户",
-   "url": "https://gpt.qt.cool/user",
-   "desc": "晴辰云用户门户，GPT 会员账号服务",
-   "cat": "账号服务",
-   "sub": "账号与合租",
-   "host": "gpt.qt.cool",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Gpt Team母号 - NikoCard",
    "url": "https://nikoers.com/item/39",
    "desc": "NikoCard 虚拟卡与 AI 账号购物平台",
@@ -6340,26 +4390,6 @@
    "sub": "账号与合租",
    "host": "uy5.net",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "xunleimatrix.com",
-   "url": "http://xunleimatrix.com",
-   "desc": "寻雷 Matrix 云控账号管理服务平台",
-   "cat": "账号服务",
-   "sub": "账号与合租",
-   "host": "xunleimatrix.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
-   "title": "ZR-AI服务",
-   "url": "https://zrg.zrbyhelp.com/apps",
-   "desc": "ZR AI 服务平台，账号与额度服务",
-   "cat": "账号服务",
-   "sub": "账号与合租",
-   "host": "zrg.zrbyhelp.com",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -6453,16 +4483,6 @@
    "profile": "Default"
   },
   {
-   "title": "- 产品派",
-   "url": "https://chanpinpai.com/topic/TSPkDues",
-   "desc": "发现和分享优质新产品的内容社区",
-   "cat": "资源导航",
-   "sub": "产品发现",
-   "host": "chanpinpai.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "产品派 - 发现优质产品 内容社区",
    "url": "https://chanpinpai.com",
    "desc": "发现和分享优质新产品的内容社区",
@@ -6475,16 +4495,6 @@
   {
    "title": "CodeHype - 启动、发现和发展 SaaS 产品",
    "url": "https://www.codehype.ai",
-   "desc": "发布、发现与推广 SaaS 产品的平台",
-   "cat": "资源导航",
-   "sub": "产品发现",
-   "host": "codehype.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "CodeHype - Launch, Discover & Grow SaaS Products",
-   "url": "https://www.codehype.ai/directories",
    "desc": "发布、发现与推广 SaaS 产品的平台",
    "cat": "资源导航",
    "sub": "产品发现",
@@ -6631,36 +4641,6 @@
    "host": "momoyu.cc",
    "added": "1601-06-03",
    "profile": "Profile 1"
-  },
-  {
-   "title": "The best vibe coding tools in 2026",
-   "url": "https://www.producthunt.com/categories/vibe-coding",
-   "desc": "新产品发现与发布社区",
-   "cat": "资源导航",
-   "sub": "产品发现",
-   "host": "producthunt.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Forums - Product Hunt",
-   "url": "https://www.producthunt.com/forums",
-   "desc": "新产品发现与发布社区",
-   "cat": "资源导航",
-   "sub": "产品发现",
-   "host": "producthunt.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Categories",
-   "url": "https://www.producthunt.com/categories",
-   "desc": "新产品发现与发布社区",
-   "cat": "资源导航",
-   "sub": "产品发现",
-   "host": "producthunt.com",
-   "added": "1601-06-05",
-   "profile": "Default"
   },
   {
    "title": "Product Hunt – The best new products in tech.",
@@ -7003,16 +4983,6 @@
    "profile": "Default"
   },
   {
-   "title": "聚收集导航网：海量分类资源一站式导航",
-   "url": "https://sjsdhw.com",
-   "desc": "海量分类资源的一站式收集导航网",
-   "cat": "资源导航",
-   "sub": "导航站",
-   "host": "sjsdhw.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "欢迎回到聚收集导航网！",
    "url": "https://www.sjsdhw.com",
    "desc": "海量分类资源的一站式收集导航网",
@@ -7193,16 +5163,6 @@
    "profile": "Default"
   },
   {
-   "title": "nextjs教程",
-   "url": "https://search.bilibili.com/all?vt=72253707&keyword=nextjs%E6%95%99%E7%A8%8B&search_source=2",
-   "desc": "B站站内视频搜索入口",
-   "cat": "资源导航",
-   "sub": "搜索引擎",
-   "host": "search.bilibili.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
    "title": "Waybien Search",
    "url": "https://waybien.com/en/search?q=apk%E7%A0%B4%E8%A7%A3",
    "desc": "Waybien 聚合搜索与资源查找站",
@@ -7273,52 +5233,12 @@
    "profile": "Default"
   },
   {
-   "title": "公益站 · 白嫖 BaiPiao",
-   "url": "https://baipiao.org/charity",
-   "desc": "白嫖奖，羊毛与优惠信息",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "baipiao.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "免费服务器 / VPS · 免费领取攻略与避坑 · 白嫖 BaiPiao",
-   "url": "https://baipiao.org/free/server",
-   "desc": "白嫖奖，羊毛与优惠信息",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "baipiao.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "白嫖 BaiPiao · AI 白嫖与免费资源聚合站",
    "url": "https://baipiao.org",
    "desc": "白嫖奖，羊毛与优惠信息",
    "cat": "资源导航",
    "sub": "羊毛与优惠",
    "host": "baipiao.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "全部主题 - 白嫖社区",
-   "url": "https://baipiao.org/bbs",
-   "desc": "白嫖奖，羊毛与优惠信息",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "baipiao.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "earnably.com/offers/web",
-   "url": "https://earnably.com/offers/web",
-   "desc": "完成任务赚取奖励的赏金任务平台",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "earnably.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -7333,32 +5253,12 @@
    "profile": "Default"
   },
   {
-   "title": "人工智能 • freemediaheckyeah",
-   "url": "https://fmhy.net/ai",
-   "desc": "freemediaheckyeah，互联网免费资源大全（本站参考原型）",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "fmhy.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Welcome • freemediaheckyeah",
    "url": "https://fmhy.net",
    "desc": "freemediaheckyeah，互联网免费资源大全（本站参考原型）",
    "cat": "资源导航",
    "sub": "羊毛与优惠",
    "host": "fmhy.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "维基 | 人工智能工具",
-   "url": "https://fmhy.vercel.app/ai",
-   "desc": "收录免费网络资源与 AI 工具的维基",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "fmhy.vercel.app",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -7393,32 +5293,12 @@
    "profile": "Default"
   },
   {
-   "title": "有 AI 解决一切®",
-   "url": "https://free.theresanaiforthat.com/?view-home",
-   "desc": "按任务查找对应免费 AI 工具的目录",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "free.theresanaiforthat.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Free AI Tool: List of Best & Latest Free AI Tool in 2025",
    "url": "https://freeaitool.ai",
    "desc": "收录最新免费 AI 工具的清单站",
    "cat": "资源导航",
    "sub": "羊毛与优惠",
    "host": "freeaitool.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Freebuff Web",
-   "url": "https://freebuff.com/web",
-   "desc": "免费 AI 编程代理聚合平台",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "freebuff.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -7503,16 +5383,6 @@
    "profile": "Default"
   },
   {
-   "title": "freenodes",
-   "url": "https://freenodes.github.io/freenodes",
-   "desc": "每日更新免费代理节点的分享站",
-   "cat": "资源导航",
-   "sub": "羊毛与优惠",
-   "host": "freenodes.github.io",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "AIO 智能算力聚合公益站 · All-In-One 高可用大模型网关",
    "url": "https://freeshare.cc.cd",
    "desc": "聚合免费算力的大模型公益网关",
@@ -7563,16 +5433,6 @@
    "profile": "Default"
   },
   {
-   "title": "精选 Skills Marketplace｜Claude Code / Codex / Cursor Skills｜Agent Skills",
-   "url": "https://agent-skills.cc/zh/claude-skills/hot",
-   "desc": "精选 Claude Code 与 Codex 技能的市场",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "agent-skills.cc",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Curated Skills Marketplace | 1,000+ Claude Code Skills",
    "url": "https://agent-skills.cc",
    "desc": "精选 Claude Code 与 Codex 技能的市场",
@@ -7593,28 +5453,8 @@
    "profile": "Default"
   },
   {
-   "title": "Claude Code 插件和市场",
-   "url": "https://www.aitmpl.com/plugins",
-   "desc": "Claude Code 插件、命令与技能模板市场",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "aitmpl.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Claude 代码模板：1000 多个代理、命令、技能和 MCP 集成",
    "url": "https://www.aitmpl.com",
-   "desc": "Claude Code 插件、命令与技能模板市场",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "aitmpl.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Claude Code Skills: Pre-built Templates & Configurations",
-   "url": "https://www.aitmpl.com/skills",
    "desc": "Claude Code 插件、命令与技能模板市场",
    "cat": "AI 工具",
    "sub": "编程与Agent",
@@ -7693,42 +5533,12 @@
    "profile": "Default"
   },
   {
-   "title": "训练和使用您自己的模型  |  Vertex AI",
-   "url": "https://cloud.google.com/vertex-ai/docs/training-overview?hl=zh-cn",
-   "desc": "谷歌云 Vertex AI 模型训练与部署文档",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "cloud.google.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "自定义训练概览  |  Vertex AI",
-   "url": "https://cloud.google.com/vertex-ai/docs/training/overview?hl=zh-cn",
-   "desc": "谷歌云 Vertex AI 模型训练与部署文档",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "cloud.google.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "CocoLoop AI社区 - AI智能体技术社区",
    "url": "https://www.cocoloop.cn",
    "desc": "聚焦 AI 智能体技术的开发者交流社区",
    "cat": "AI 工具",
    "sub": "编程与Agent",
    "host": "cocoloop.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴",
-   "url": "https://www.codebuddy.cn/profile/plans-usage",
-   "desc": "腾讯云推出的 AI 智能编程助手工具",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "codebuddy.cn",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -7783,16 +5593,6 @@
    "profile": "Default"
   },
   {
-   "title": "分布式雷达 Codex站",
-   "url": "https://deng.codexradar.com",
-   "desc": "Codex 分布式节点监控与共享站点",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "deng.codexradar.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "AICoding基地",
    "url": "https://devmaster.cn",
    "desc": "AI 编程学习与开发资源站",
@@ -7843,16 +5643,6 @@
    "profile": "Default"
   },
   {
-   "title": "Official Claude 技能",
-   "url": "https://mcpmarket.com/zh/tools/skills/categories/official",
-   "desc": "Claude 技能与 MCP 服务的排行榜",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "mcpmarket.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "MossX客户端 - MossX - 下一代VibeCoding入口",
    "url": "https://www.mossx.ai/download",
    "desc": "面向 Vibe Coding 的 AI 编程客户端",
@@ -7893,16 +5683,6 @@
    "profile": "Default"
   },
   {
-   "title": "AI 开发工具与流程",
-   "url": "https://skills.yangsir.net/domains/ai-dev-tools-workflow",
-   "desc": "按职业场景精选 AI 技能的导航库",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "skills.yangsir.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "按职业场景寻找 AI Agent Skill",
    "url": "https://skills.yangsir.net",
    "desc": "按职业场景精选 AI 技能的导航库",
@@ -7929,16 +5709,6 @@
    "cat": "AI 工具",
    "sub": "编程与Agent",
    "host": "trae.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "心流AI交流社区",
-   "url": "https://vibex.iflow.cn/latest",
-   "desc": "心流 AI 的用户交流与技术分享社区",
-   "cat": "AI 工具",
-   "sub": "编程与Agent",
-   "host": "vibex.iflow.cn",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -8023,16 +5793,6 @@
    "profile": "Default"
   },
   {
-   "title": "ArchAIve - Curated AI Tools for Coding, Design & Productivity",
-   "url": "https://ai-archaive.vercel.app",
-   "desc": "编程设计与效率类 AI 工具的精选集",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "ai-archaive.vercel.app",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "AI工具集",
    "url": "https://ai-bot.cn",
    "desc": "国内知名的 AI 工具集合导航网站",
@@ -8069,16 +5829,6 @@
    "cat": "AI 工具",
    "sub": "导航与目录",
    "host": "aibard123.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "AGI导航网址站-国内专业AI工具导航网站_AIbase导航",
-   "url": "https://www.aibase.com/zh/tools",
-   "desc": "国内专业的 AI 工具资讯导航平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aibase.com",
    "added": "1601-06-04",
    "profile": "Default"
   },
@@ -8133,38 +5883,8 @@
    "profile": "Default"
   },
   {
-   "title": "2025 年最佳人工智能工具和目录 | 人工智能目录",
-   "url": "https://www.aidirectori.es/ai-tools/tag/ai-image-generator",
-   "desc": "AI 工具目录站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aidirectori.es",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "所有 AI 目录集中在一个地方 | AI 目录",
-   "url": "https://www.aidirectori.es/?via=li",
-   "desc": "AI 工具目录站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aidirectori.es",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "All your AI Directories in one place",
    "url": "https://www.aidirectori.es",
-   "desc": "AI 工具目录站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aidirectori.es",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI & Startup Directories: 321+ Ranked by Live DR",
-   "url": "https://www.aidirectori.es/directories",
    "desc": "AI 工具目录站",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -8189,36 +5909,6 @@
    "cat": "AI 工具",
    "sub": "导航与目录",
    "host": "aiforums.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Promote Your AI & SaaS Tools",
-   "url": "https://aiforums.co/forums/promote-your-ai-saas-tools.16",
-   "desc": "讨论 AI 与 SaaS 工具的交流论坛",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aiforums.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "免费 AI 图像生成器 - 永久免费 AI",
-   "url": "https://aifreeforever.com/image-generators",
-   "desc": "永久免费使用的 AI 图像生成站点",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aifreeforever.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "GPT Image 2 免费版 - AI Free Forever 出品的 AI 图像生成器",
-   "url": "https://aifreeforever.com/image-generators/gpt-image-2",
-   "desc": "永久免费使用的 AI 图像生成站点",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aifreeforever.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -8303,16 +5993,6 @@
    "profile": "Default"
   },
   {
-   "title": "在AIPURE探索最佳AI工具与服务",
-   "url": "https://aipure.ai/cn",
-   "desc": "AI 工具与服务的评测推荐指南站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aipure.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "在 AIPURE 探索最佳 AI 工具和服务——您的终极 AI 指南。",
    "url": "https://aipure.ai",
    "desc": "AI 工具与服务的评测推荐指南站",
@@ -8333,32 +6013,12 @@
    "profile": "Default"
   },
   {
-   "title": "类别 - AIToolFame",
-   "url": "https://aitoolfame.com/category",
-   "desc": "热门 AI 工具的分类收录与排行榜",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aitoolfame.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Top AI Tools Ranked and Organized by Category",
    "url": "https://aitoolkit.io",
    "desc": "按类别排名的 AI 工具榜单与目录",
    "cat": "AI 工具",
    "sub": "导航与目录",
    "host": "aitoolkit.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "aitools.fyi - 找到让生活变得更轻松的最佳AI工具！",
-   "url": "https://aitools.fyi/zh",
-   "desc": "按使用场景查找 AI 工具的对比站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aitools.fyi",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -8443,16 +6103,6 @@
    "profile": "Default"
   },
   {
-   "title": "Discover top 38 Free AI tools in 2025 - AI With Me",
-   "url": "https://aiwith.me/category/Free",
-   "desc": "免费 AI 工具的发现与推荐导航站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aiwith.me",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "AI With Me：探索数千种人工智能工具",
    "url": "https://aiwith.me",
    "desc": "免费 AI 工具的发现与推荐导航站",
@@ -8473,16 +6123,6 @@
    "profile": "Default"
   },
   {
-   "title": "Latest Advanced AI Tools - AI X Collection",
-   "url": "https://aixcollection.com/latest",
-   "desc": "前沿 AI 工具的精选合集与推荐目录站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "aixcollection.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "十大聊天人工智能和助手 | 2025 | AIxploria",
    "url": "https://www.aixploria.com/en/category/ai-chat-assistant/?orderby=Gratuit&category_id=1671",
    "desc": "AI 工具的榜单排名与分类导航目录",
@@ -8490,16 +6130,6 @@
    "sub": "导航与目录",
    "host": "aixploria.com",
    "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AIbase - 未来已来，探索人工智能的无限可能",
-   "url": "https://app.aibase.com/exploreApp",
-   "desc": "AIbase 的 AI 产品库与智能匹配平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "app.aibase.com",
-   "added": "1601-06-04",
    "profile": "Default"
   },
   {
@@ -8723,26 +6353,6 @@
    "profile": "Default"
   },
   {
-   "title": "Pollinations.AI API 参考",
-   "url": "https://enter.pollinations.ai/api/docs",
-   "desc": "Pollinations 的开放生成 API 文档",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "enter.pollinations.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "pollinations.ai - beta",
-   "url": "https://enter.pollinations.ai",
-   "desc": "Pollinations 的开放生成 API 文档",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "enter.pollinations.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Discover Best Useful Online Tools - FeaturedTool.com",
    "url": "https://featuredtool.com/?page=3",
    "desc": "实用在线工具的精选推荐与收录目录站",
@@ -8783,28 +6393,8 @@
    "profile": "Default"
   },
   {
-   "title": "Future Tools - Find The Exact AI Tool For Your Needs",
-   "url": "https://www.futuretools.io",
-   "desc": "人工智能工具的聚合发现与推荐导航站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "futuretools.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "未来工具——人工智能的脉搏",
    "url": "https://futuretools.io",
-   "desc": "人工智能工具的聚合发现与推荐导航站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "futuretools.io",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Future Tools - The Pulse of AI",
-   "url": "https://futuretools.io/tools?filters=free",
    "desc": "人工智能工具的聚合发现与推荐导航站",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -8823,16 +6413,6 @@
    "profile": "Default"
   },
   {
-   "title": "下载 Mod APK 应用 - 我们甚至包括最不热门的应用！",
-   "url": "https://getmodnow.com/apps.html",
-   "desc": "安卓修改版 APK 应用的下载与搜索站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "getmodnow.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "搜索",
    "url": "https://getmodnow.com/search?s=AI",
    "desc": "安卓修改版 APK 应用的下载与搜索站",
@@ -8845,36 +6425,6 @@
   {
    "title": "探索提升工作效率的最佳人工智能工具。 - 优秀人工智能工具 (2026)",
    "url": "https://goodaitools.com",
-   "desc": "优质 AI 工具精选目录",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "goodaitools.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Latest AI tools - Good AI Tools",
-   "url": "https://goodaitools.com/latest",
-   "desc": "优质 AI 工具精选目录",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "goodaitools.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "2026 年最佳 AI 助手和 AI 工具 - 优秀 AI 工具",
-   "url": "https://goodaitools.com/category/ai-assistants",
-   "desc": "优质 AI 工具精选目录",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "goodaitools.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "最新人工智能工具 - 优秀的人工智能工具",
-   "url": "https://goodaitools.com/latest?page=4",
    "desc": "优质 AI 工具精选目录",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -8993,16 +6543,6 @@
    "profile": "Default"
   },
   {
-   "title": "iNeed: Belajar AI, Mulai Gratis",
-   "url": "https://info.ineed.web.id/free-ai-resources",
-   "desc": "面向印尼用户的免费 AI 学习资讯站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "info.ineed.web.id",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "iNeed Info : Belajar AI dari Nol",
    "url": "https://info.ineed.web.id",
    "desc": "面向印尼用户的免费 AI 学习资讯站",
@@ -9083,38 +6623,8 @@
    "profile": "Default"
   },
   {
-   "title": "Image | MagicBox.tools",
-   "url": "https://magicbox.tools/category/image",
-   "desc": "探索年度最佳 AI 工具的精选目录站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "magicbox.tools",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "MCP.Link |将 API 连接到 AI 助手",
-   "url": "https://mcp-link.vercel.app/links",
-   "desc": "把现有 API 接入 AI 助手的桥接工具",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "mcp-link.vercel.app",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "MODELOC · 模型可信度 + 算力平台｜检测 · 榜单 · 算力池 · 市场",
    "url": "https://modeloc.com",
-   "desc": "模型中转站评分、检测与算力市场",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "modeloc.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "中转站列表 · 大模型 API 中转站评分目录｜MODELOC",
-   "url": "https://modeloc.com/relays",
    "desc": "模型中转站评分、检测与算力市场",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -9233,16 +6743,6 @@
    "profile": "Default"
   },
   {
-   "title": "史上最佳免费人工智能工具：终极榜单",
-   "url": "https://opentools.ai/top-free-ai-tools",
-   "desc": "免费 AI 工具的终极榜单收录目录",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "opentools.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "顶级人工智能工具列表 - OpenTools",
    "url": "https://opentools.ai",
    "desc": "免费 AI 工具的终极榜单收录目录",
@@ -9263,16 +6763,6 @@
    "profile": "Default"
   },
   {
-   "title": "PeerPush - Get Found by People and AI",
-   "url": "https://peerpush.com/c/ai",
-   "desc": "让用户与 AI 发现产品的提交平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "peerpush.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "GPT Image 2: Try ChatGPT Images 2.0 Free Online, No Sign-up",
    "url": "https://photogpt.io/ai-models/gpt-image-2",
    "desc": "免注册在线体验 GPT 图像生成的站点",
@@ -9283,28 +6773,8 @@
    "profile": "Default"
   },
   {
-   "title": "pollinations.ai",
-   "url": "https://pollinations.ai/apps",
-   "desc": "开源免费的 AI 图像与文本生成平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "pollinations.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "AI Tools Directory & List of Best Free AI Tools - PoweredbyAI",
    "url": "https://poweredbyai.app",
-   "desc": "免费 AI 工具的目录与榜单推荐站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "poweredbyai.app",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "免费 AI 工具",
-   "url": "https://poweredbyai.app/zh/free-tools",
    "desc": "免费 AI 工具的目录与榜单推荐站",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -9369,16 +6839,6 @@
    "cat": "AI 工具",
    "sub": "导航与目录",
    "host": "saasaitools.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI工具导航",
-   "url": "https://sanhuang520-ship-it.github.io/awesome-chinese-ai-tools",
-   "desc": "免费 AI 工具的推荐与编辑精选页",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "sanhuang520-ship-it.github.io",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -9475,16 +6935,6 @@
   {
    "title": "Stork.AI - 探索最佳人工智能工具和智能体",
    "url": "https://www.stork.ai",
-   "desc": "AI 工具与智能体的发现推荐平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "stork.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Stork Wire",
-   "url": "https://www.stork.ai/browse?pricing=free",
    "desc": "AI 工具与智能体的发现推荐平台",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -9593,26 +7043,6 @@
    "profile": "Default"
   },
   {
-   "title": "[FREE] ChatGPT Alternative - (No Login & Unlimited)",
-   "url": "https://toolbaz.com/writer/chat-gpt-alternative",
-   "desc": "免登录免费 AI 写作与代码生成器",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "toolbaz.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI 聊天与助手 - 545 个优质工具 | ToolCenter",
-   "url": "https://www.toolcenter.ai/zh/category/ai",
-   "desc": "工具岛 AI 工具分类导航发现平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "toolcenter.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "工具岛 ToolCenter - 发现最好的 AI 工具和效率工具",
    "url": "https://www.toolcenter.ai/zh",
    "desc": "工具岛 AI 工具分类导航发现平台",
@@ -9660,46 +7090,6 @@
    "sub": "导航与目录",
    "host": "toolify.ai",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "最好的AI导航站和AI工具列表 - Toolify",
-   "url": "https://www.toolify.ai/zh",
-   "desc": "AI 工具导航目录，收录量大",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "toolify.ai",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "最好的 脫衣 AI 網站和 AI 工具 - Toolify",
-   "url": "https://www.toolify.ai/tw/search/%E8%84%AB%E8%A1%A3?r=index",
-   "desc": "AI 工具导航目录，收录量大",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "toolify.ai",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "发现最新的AI网站和AI工具 - Toolify",
-   "url": "https://www.toolify.ai/zh/new",
-   "desc": "AI 工具导航目录，收录量大",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "toolify.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "2026年最佳免费代码编程与辅助AI工具 - Toolify",
-   "url": "https://www.toolify.ai/zh/free-ai-tools/coding-development",
-   "desc": "AI 工具导航目录，收录量大",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "toolify.ai",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -9783,36 +7173,6 @@
    "profile": "Default"
   },
   {
-   "title": "最新AiRAG网站工具和软件推荐_AiBase产品库",
-   "url": "https://top.aibase.com/topic/RAG",
-   "desc": "AIbase 的产品库与智能匹配平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "top.aibase.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "免费 AI 工具，一站式完整列表 - 2025",
-   "url": "https://topai.tools/browse?pricing=free",
-   "desc": "免注册即可使用的免费 AI 工具列表",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "topai.tools",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "无需注册的免费人工智能聊天网站",
-   "url": "https://topai.tools/s/free-ai-chat-sites-without-registration",
-   "desc": "免注册即可使用的免费 AI 工具列表",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "topai.tools",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Find the Right AI Tools for Every Task",
    "url": "https://topai.tools",
    "desc": "免注册即可使用的免费 AI 工具列表",
@@ -9853,16 +7213,6 @@
    "profile": "Default"
   },
   {
-   "title": "Turbo0 - Popular Content Creation Products Directory",
-   "url": "https://turbo0.com/category?sort=upvote-desc&startTime=2026-01-01&endTime=2026-10-13&tag=free",
-   "desc": "内容创作产品的分类收录与推荐目录站",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "turbo0.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "所有类别 - Turbo0",
    "url": "https://turbo0.com/category?sort=upvote-desc&startTime=2026-01-01&endTime=2026-10-13&tag=free&page=3",
    "desc": "内容创作产品的分类收录与推荐目录站",
@@ -9875,26 +7225,6 @@
   {
    "title": "检测进行中 · Veridrop",
    "url": "https://veridrop.org/r/5m-Q_JVw",
-   "desc": "AI 中转站的推荐排名与红黑榜检测",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "veridrop.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI 中转站推荐与 API 中转站排名 · Claude / OpenAI / Gemini 红黑榜",
-   "url": "https://veridrop.org/leaderboard",
-   "desc": "AI 中转站的推荐排名与红黑榜检测",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "veridrop.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI API 中转站导航 · 全部 3198 家中转站按活跃度排序",
-   "url": "https://veridrop.org/relays",
    "desc": "AI 中转站的推荐排名与红黑榜检测",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -9923,26 +7253,6 @@
    "profile": "Default"
   },
   {
-   "title": "蛙先知",
-   "url": "https://www.waxianzhi.com/signup",
-   "desc": "蛙先知 AI 资讯与工具分享服务平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "waxianzhi.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "激活您的帐户 - 蛙先知",
-   "url": "https://www.waxianzhi.com/u/account-created",
-   "desc": "蛙先知 AI 资讯与工具分享服务平台",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "waxianzhi.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "蛙先知 - 好奇心驱动的 AI 社区",
    "url": "https://www.waxianzhi.com",
    "desc": "蛙先知 AI 资讯与工具分享服务平台",
@@ -9955,16 +7265,6 @@
   {
    "title": "AI 网站 - WayToAGI",
    "url": "https://www.waytoagi.com/zh/sites?tag=14",
-   "desc": "通往 AGI 之路的 AI 学习知识库",
-   "cat": "AI 工具",
-   "sub": "导航与目录",
-   "host": "waytoagi.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI 提示词 - WayToAGI",
-   "url": "https://www.waytoagi.com/zh/prompts",
    "desc": "通往 AGI 之路的 AI 学习知识库",
    "cat": "AI 工具",
    "sub": "导航与目录",
@@ -10093,46 +7393,6 @@
    "profile": "Default"
   },
   {
-   "title": "Get API key",
-   "url": "https://aistudio.google.com/apikey?hl=zh-cn&_gl=1*m3aw2j*_ga*MTU0ODkwMjE2Mi4xNzM4MzcwMDU3*_ga_P1DBVKWT6V*MTc0NDM2MTY4NC42LjAuMTc0NDM2MTY4NC42MC4wLjI3ODY3NjIxNQ..",
-   "desc": "Google AI Studio，Gemini 模型在线调试与 Prompt 实验",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "aistudio.google.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "Chat",
-   "url": "https://aistudio.google.com/prompts/new_chat",
-   "desc": "Google AI Studio，Gemini 模型在线调试与 Prompt 实验",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "aistudio.google.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "Baidu Pan Download Issue",
-   "url": "https://aistudio.google.com/app/prompts/new_chat",
-   "desc": "Google AI Studio，Gemini 模型在线调试与 Prompt 实验",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "aistudio.google.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "箱子爆率分析报告",
-   "url": "https://aistudio.google.com/prompts/1lF32zqFk0kQAF4XaYv9c_7llowXVP5v4",
-   "desc": "Google AI Studio，Gemini 模型在线调试与 Prompt 实验",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "aistudio.google.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "印度 LLM 竞技场",
    "url": "https://arena.ai4bharat.org",
    "desc": "印度语言大模型的对比竞技评测场",
@@ -10183,16 +7443,6 @@
    "profile": "Default"
   },
   {
-   "title": "DeepSeek - 探索未至之境",
-   "url": "https://chat.deepseek.com/a/chat/s/32caa148-b8ad-4706-b27d-7e4da9973179",
-   "desc": "DeepSeek 官方对话",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "chat.deepseek.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "Ghostbot Web",
    "url": "https://chat.infip.pro",
    "desc": "Ghostbot 的网页版 AI 聊天界面",
@@ -10219,16 +7469,6 @@
    "cat": "AI 工具",
    "sub": "对话与模型",
    "host": "chat.pollinations.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Qwen",
-   "url": "https://chat.qwen.ai/c/751383b8-034d-451d-b8c8-a882b5743868",
-   "desc": "通义千问官方在线对话与推理平台",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "chat.qwen.ai",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -10279,26 +7519,6 @@
    "cat": "AI 工具",
    "sub": "对话与模型",
    "host": "chatgpt.com",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "SiliconCloud",
-   "url": "https://cloud.siliconflow.cn/sft-cm3h6q2sp02dd106jmnc9l43i/models",
-   "desc": "硅基流动的模型云服务管理控制台",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "cloud.siliconflow.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "ChatGPT中文版在线使用、永久免费、无需登录 - CodeNews",
-   "url": "https://codenews.cc/chatgpt",
-   "desc": "免登录使用的 ChatGPT 中文在线站",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "codenews.cc",
    "added": "1601-06-04",
    "profile": "Default"
   },
@@ -10423,56 +7643,6 @@
    "profile": "Default"
   },
   {
-   "title": "C4AI Command Models - a Hugging Face Space by CohereForAI",
-   "url": "https://huggingface.co/spaces/CohereForAI/c4ai-command",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "EXAONE 3.5 Instruct Demo - a Hugging Face Space by LGAI-EXAONE",
-   "url": "https://huggingface.co/spaces/LGAI-EXAONE/EXAONE-3.5-Instruct-Demo",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "Falcon3 Demo - a Hugging Face Space by tiiuae",
-   "url": "https://huggingface.co/spaces/tiiuae/Falcon3-demo",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "Yanolja Arena - a Hugging Face Space by yanolja",
-   "url": "https://huggingface.co/spaces/yanolja/arena",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "🤖 Android code",
-   "url": "https://huggingface.co/chat/conversation/66e6303332b7699492e996f5",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "HuggingChat",
    "url": "https://huggingface.co/chat",
    "desc": "全球最大 AI 模型与数据集托管社区",
@@ -10480,96 +7650,6 @@
    "sub": "对话与模型",
    "host": "huggingface.co",
    "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "QwQ 32B Demo - a Hugging Face Space by Qwen",
-   "url": "https://huggingface.co/spaces/Qwen/QwQ-32B-Demo",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "DeepSeek-Prover-V2-671B - a Hugging Face Space by ginipick",
-   "url": "https://huggingface.co/spaces/ginipick/DeepSeek-Prover-V2-671B",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Hunyuan Turbos - a Hugging Face Space by tencent",
-   "url": "https://huggingface.co/spaces/tencent/hunyuan-turbos",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Joy Caption Pre Alpha - a Hugging Face Space by fancyfeast",
-   "url": "https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Kijai/WanVideo_comfy at main",
-   "url": "https://huggingface.co/Kijai/WanVideo_comfy/tree/main",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "calcuis/ltxv-gguf at main",
-   "url": "https://huggingface.co/calcuis/ltxv-gguf/tree/main",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "DeepBeepMeep/LTX_Video at main",
-   "url": "https://huggingface.co/DeepBeepMeep/LTX_Video/tree/main",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "mit-han-lab (MIT HAN Lab)",
-   "url": "https://huggingface.co/mit-han-lab/models",
-   "desc": "全球最大 AI 模型与数据集托管社区",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "huggingface.co",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "腾讯混元",
-   "url": "https://hunyuan.tencent.com/modelSquare/home/play/d5j9juk2c3m0b879ufeg?modelId=303",
-   "desc": "腾讯混元大模型的官方开放使用平台",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "hunyuan.tencent.com",
-   "added": "1601-06-05",
    "profile": "Default"
   },
   {
@@ -10585,16 +7665,6 @@
   {
    "title": "禾维 AI",
    "url": "https://hvoy.ai/l",
-   "desc": "API 密钥连通性与可用性测试平台",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "hvoy.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "API Key 测试与连通性测试",
-   "url": "https://hvoy.ai/free-tokens/api-keys",
    "desc": "API 密钥连通性与可用性测试平台",
    "cat": "AI 工具",
    "sub": "对话与模型",
@@ -10673,16 +7743,6 @@
    "profile": "Default"
   },
   {
-   "title": "LMArena",
-   "url": "https://lmarena.ai/?gad_source=1&gad_campaignid=21946979971&gbraid=0AAAAA-d12XOMfOFqmRx_nQDhvMko2QaFM&mode=direct",
-   "desc": "大模型匿名对战排行榜（原 LMSYS Arena）",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "lmarena.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "请稍候…",
    "url": "https://lmarena.ai/?mode=direct&chat-modality=search",
    "desc": "大模型匿名对战排行榜（原 LMSYS Arena）",
@@ -10699,16 +7759,6 @@
    "cat": "AI 工具",
    "sub": "对话与模型",
    "host": "models.sulat.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Untitled notebook - NotebookLM",
-   "url": "https://notebooklm.google.com/notebook/be7fc5d9-71c4-4000-8f48-93ddb7508fd7",
-   "desc": "谷歌 NotebookLM 笔记与研究助手",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "notebooklm.google.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -10740,16 +7790,6 @@
    "sub": "对话与模型",
    "host": "perplexity.ai",
    "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "我想创建一个和平精英（pubgm）的fps手游端吃鸡游戏的.ini文件，他这个游戏是ue4虚幻引擎制作的，你需要给我.ini文件的文件名称和代码，文件名称…",
-   "url": "https://www.phind.com/search?cache=nqg4bl8gvcuf9b1e3kqlkzws",
-   "desc": "面向开发者的 AI 搜索与问答引擎",
-   "cat": "AI 工具",
-   "sub": "对话与模型",
-   "host": "phind.com",
-   "added": "1601-06-04",
    "profile": "Default"
   },
   {
@@ -10903,32 +7943,12 @@
    "profile": "Default"
   },
   {
-   "title": "随风AI外部应用api连通教程",
-   "url": "https://docs.qq.com/doc/DSkdjaGxTVE1ycWVQ",
-   "desc": "腾讯文档在线协作",
-   "cat": "AI 工具",
-   "sub": "其他",
-   "host": "docs.qq.com",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
    "title": "AI Image Creator",
    "url": "https://www.aiimgcreator.com",
    "desc": "在线使用的 AI 图像生成创作工具",
    "cat": "AI 工具",
    "sub": "生成与创作",
    "host": "aiimgcreator.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI 提示词生成器 – 生成 AI 提示词的最佳工具",
-   "url": "https://aipromptgenerator.ai/zh",
-   "desc": "AI 图文与视频提示词的自动生成器",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "aipromptgenerator.ai",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -10983,16 +8003,6 @@
    "profile": "Default"
   },
   {
-   "title": "Base64 图像转换器 - 无损转换工具",
-   "url": "https://base64-to-iamge.to2ai.workers.dev",
-   "desc": "Base64 编码与图像互转的在线工具",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "base64-to-iamge.to2ai.workers.dev",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Civitai",
    "url": "https://civitai.com/search/models?baseModel=Flux.1%20D&baseModel=Flux.1%20Kontext&modelType=Workflows&sortBy=models_v9&query=work",
    "desc": "AI 绘画模型与作品的全球分享社区",
@@ -11035,16 +8045,6 @@
   {
    "title": "Dreamifly - 免费 AI 绘画/视频在线生成工具",
    "url": "https://dreamifly.com",
-   "desc": "免费在线 AI 绘画与视频生成平台",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "dreamifly.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "AI 创作 - 文生图 & 图生图 & 视频生成",
-   "url": "https://dreamifly.com/create?tab=video&model=grok-imagine-1.0-video",
    "desc": "免费在线 AI 绘画与视频生成平台",
    "cat": "AI 工具",
    "sub": "生成与创作",
@@ -11109,16 +8109,6 @@
    "cat": "AI 工具",
    "sub": "生成与创作",
    "host": "higgsfield-ai.org",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "无限纳米香蕉专业版 - 免费在线人工智能图像生成器",
-   "url": "https://imastudio.com/nano-banana-pro",
-   "desc": "图像与音频生成的免费 AI 创作平台",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "imastudio.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -11213,26 +8203,6 @@
    "profile": "Default"
   },
   {
-   "title": "Create Art or Modify Images with AI",
-   "url": "https://openart.ai/home",
-   "desc": "AI 图像生成平台，多模型聚合",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "openart.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "ComfyUI Workflows - Developer Community",
-   "url": "https://openart.ai/workflows/all",
-   "desc": "AI 图像生成平台，多模型聚合",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "openart.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Sarah 的个人资料和图片库",
    "url": "https://openart.ai/workflows/profile/sarah_lady?sort=latest",
    "desc": "AI 图像生成平台，多模型聚合",
@@ -11253,32 +8223,12 @@
    "profile": "Default"
   },
   {
-   "title": "PigenAi - Bring Your Imagination to Life with AI",
-   "url": "https://www.pigenai.art/create",
-   "desc": "把想象变为现实的 AI 图像生成站",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "pigenai.art",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "免费在线Pika Labs AI：创作艺术/视频 – 无需注册，无需费用",
    "url": "https://www.pikalabsai.net/zh/create",
    "desc": "免注册使用的 Pika 风格视频生成站",
    "cat": "AI 工具",
    "sub": "生成与创作",
    "host": "pikalabsai.net",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "免费WAN 2.2 AI工具：在线创建令人惊叹的视频和图像",
-   "url": "https://www.pixverseai.org/zh/wan-2-2-ai",
-   "desc": "免费 Wan 模型的图像视频生成站",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "pixverseai.org",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -11303,16 +8253,6 @@
    "profile": "Default"
   },
   {
-   "title": "热门AI提示词排行榜｜优质Prompt模板合集",
-   "url": "https://prompt123.cn/hot",
-   "desc": "热门 AI 提示词模板的排行榜与合集",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "prompt123.cn",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "免费AI提示词库大全 - 10000+优质提示词模板",
    "url": "https://prompthub.xin/prompts",
    "desc": "万条优质 AI 提示词模板的在线资源库",
@@ -11323,28 +8263,8 @@
    "profile": "Default"
   },
   {
-   "title": "PromptPilot",
-   "url": "https://promptpilot.volcengine.com/home",
-   "desc": "字节跳动出品的 AI 提示词优化平台",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "promptpilot.volcengine.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "prompts.chat - AI Prompts Community",
    "url": "https://prompts.chat",
-   "desc": "AI 提示词的社区分享与检索平台",
-   "cat": "AI 工具",
-   "sub": "生成与创作",
-   "host": "prompts.chat",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Prompts",
-   "url": "https://prompts.chat/prompts",
    "desc": "AI 提示词的社区分享与检索平台",
    "cat": "AI 工具",
    "sub": "生成与创作",
@@ -11423,16 +8343,6 @@
    "profile": "Default"
   },
   {
-   "title": "9Router - AI Infrastructure Management",
-   "url": "https://9router.xunleiyk.com/login",
-   "desc": "9Router 的 AI 模型路由网关站",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "9router.xunleiyk.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "Agent Router",
    "url": "https://agentrouter.org/console",
    "desc": "面向 AI 智能体的模型自动路由网关",
@@ -11490,36 +8400,6 @@
    "sub": "API 与中转站",
    "host": "api.5202030.xyz",
    "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "One API",
-   "url": "https://api.aabao.vip",
-   "desc": "One API 搭建的大模型主站中转",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "api.aabao.vip",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "One API（主站_API中转站）",
-   "url": "https://api.aabao.vip/topup",
-   "desc": "One API 搭建的大模型主站中转",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "api.aabao.vip",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Bailili API",
-   "url": "https://api.bailili.top/token",
-   "desc": "Bailili 提供的模型 API 中转服务",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "api.bailili.top",
-   "added": "1601-06-04",
    "profile": "Default"
   },
   {
@@ -11643,16 +8523,6 @@
    "profile": "Default"
   },
   {
-   "title": "我的订阅 - API小风车",
-   "url": "https://api.svips.org/subscriptions",
-   "desc": "API 小风车的接口订阅与管理站",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "api.svips.org",
-   "added": "1601-06-05",
-   "profile": "Profile 1"
-  },
-  {
    "title": "api.svips.org",
    "url": "https://api.svips.org/login",
    "desc": "API 小风车的接口订阅与管理站",
@@ -11670,16 +8540,6 @@
    "sub": "API 与中转站",
    "host": "api.telegram.org",
    "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "api.together.ai/playground/chat/meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
-   "url": "https://api.together.ai/playground/chat/meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
-   "desc": "Together 云的模型推理与试验平台",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "api.together.ai",
-   "added": "1601-06-04",
    "profile": "Default"
   },
   {
@@ -11743,16 +8603,6 @@
    "profile": "Default"
   },
   {
-   "title": "GPT Image 2 (gpt-image-2)：OpenAI 图像模型",
-   "url": "https://apimart.ai/zh/model/gpt-image-2",
-   "desc": "聚合五百余款模型的折扣 API 市场",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "apimart.ai",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "发现最佳 API 和 SaaS 产品 | API Tracker",
    "url": "https://apitracker.io",
    "desc": "API 与 SaaS 产品的发现追踪目录",
@@ -11785,16 +8635,6 @@
   {
    "title": "Aqua API - Free AI API for Developers",
    "url": "https://aquadevs.com",
-   "desc": "面向开发者提供的免费 AI API",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "aquadevs.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Dashboard - Manage Your Free AI API Keys",
-   "url": "https://aquadevs.com/dashboard",
    "desc": "面向开发者提供的免费 AI API",
    "cat": "AI 工具",
    "sub": "API 与中转站",
@@ -12033,16 +8873,6 @@
    "profile": "Default"
   },
   {
-   "title": "G4F - Members Area",
-   "url": "https://g4f.dev/members.html",
-   "desc": "免费调用各 AI 能力的 G4F 项目站",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "g4f.dev",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
    "title": "GE Chat - 免费共享的GPT4镜像",
    "url": "https://gege.chat/list",
    "desc": "免费共享使用的 GPT4 镜像对话站",
@@ -12089,16 +8919,6 @@
    "cat": "AI 工具",
    "sub": "API 与中转站",
    "host": "helm-api.vercel.app",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "CLIProxyAPI是什么？",
-   "url": "https://help.router-for.me/cn/introduction/what-is-cliproxyapi.html",
-   "desc": "CLIProxyAPI 代理工具的中文文档站",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "help.router-for.me",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -12159,16 +8979,6 @@
    "cat": "AI 工具",
    "sub": "API 与中转站",
    "host": "kiosapi.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "LiteRouter - AI API Gateway",
-   "url": "https://literouter.com/index.php",
-   "desc": "LiteRouter 的轻量 AI API 网关",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "literouter.com",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -12333,26 +9143,6 @@
    "profile": "Default"
   },
   {
-   "title": "Chatroom",
-   "url": "https://openrouter.ai/chat",
-   "desc": "聚合各家大模型的统一 API 网关与中转",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "openrouter.ai",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
-   "title": "Models",
-   "url": "https://openrouter.ai/models?order=pricing-low-to-high",
-   "desc": "聚合各家大模型的统一 API 网关与中转",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "openrouter.ai",
-   "added": "1601-06-04",
-   "profile": "Default"
-  },
-  {
    "title": "OrcaRouter",
    "url": "https://www.orcarouter.ai/console/get-started",
    "desc": "OrcaRouter 的模型路由网关服务",
@@ -12415,16 +9205,6 @@
   {
    "title": "Artificial Intelligence/Machine Learning",
    "url": "https://rapidapi.com/search/Artificial%20Intelligence%2FMachine%20Learning?sortBy=ByRelevance",
-   "desc": "全球规模最大的第三方 API 市场",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "rapidapi.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "Nokia acquires Rapid technology and team! 🚀",
-   "url": "https://rapidapi.com/hub",
    "desc": "全球规模最大的第三方 API 市场",
    "cat": "AI 工具",
    "sub": "API 与中转站",
@@ -12533,42 +9313,12 @@
    "profile": "Default"
   },
   {
-   "title": "白嫖渠道",
-   "url": "https://tokennav.cc/free",
-   "desc": "AI API 中转站的导航与收录目录",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "tokennav.cc",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "网址导航",
-   "url": "http://www.ubfgho.com",
-   "desc": "综合网址导航与资源聚合的门户站",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "ubfgho.com",
-   "added": "1601-06-01",
-   "profile": "Default"
-  },
-  {
    "title": "UnoRouter - One Key for Every AI Model",
    "url": "https://unorouter.com/en",
    "desc": "一个密钥调用全部模型的中转路由站",
    "cat": "AI 工具",
    "sub": "API 与中转站",
    "host": "unorouter.com",
-   "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "颜夕API",
-   "url": "https://wangxiansheng.pp.ua/usage-logs/common",
-   "desc": "颜夕 API 的模型中转与接口服务站",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "wangxiansheng.pp.ua",
    "added": "1601-06-05",
    "profile": "Default"
   },
@@ -12580,16 +9330,6 @@
    "sub": "API 与中转站",
    "host": "xy.poloapi.com",
    "added": "1601-06-05",
-   "profile": "Default"
-  },
-  {
-   "title": "云雾 API - AI模型中转API - OpenAI ChatGPT API低价GPT-4 - Claude 3 Opus、Command R+、Gem…",
-   "url": "https://yunwu.ai/topup",
-   "desc": "主打低价的大模型 API 中转平台",
-   "cat": "AI 工具",
-   "sub": "API 与中转站",
-   "host": "yunwu.ai",
-   "added": "1601-06-04",
    "profile": "Default"
   },
   {

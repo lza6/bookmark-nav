@@ -143,26 +143,55 @@ for (const it of items) {
   if (!byKey.has(k)) byKey.set(k, it);
 }
 const deduped = [...byKey.values()];
-deduped.sort((a, b) => (a.cat + a.sub).localeCompare(b.cat + b.sub, 'zh') || a.host.localeCompare(b.host));
+
+// ── 同网站折叠：一个注册域名只留一张卡（导航站语义，用户要求去重）──
+// 例: github.com 23 条 → 1 条; blog.csdn.net 7 条 → 1 条; ubfgho.com 子域 10 条 → 1 条
+const TWO_PART_TLD = new Set(['com.cn', 'net.cn', 'org.cn', 'gov.cn', 'edu.cn', 'co.uk', 'com.hk', 'com.tw', 'co.jp', 'com.au', 'com.br', 'co.kr', 'com.sg', 'co.nz', 'com.mx']);
+function registrableDomain(host) {
+  const parts = host.split('.');
+  if (parts.length <= 2) return host;
+  if (TWO_PART_TLD.has(parts.slice(-2).join('.'))) return parts.slice(-3).join('.');
+  return parts.slice(-2).join('.');
+}
+function isRootUrl(it) {
+  try { const u = new URL(it.url); return (u.pathname === '/' || u.pathname === '') && !u.search; } catch (e) { return false; }
+}
+function pickBetter(a, b) {
+  // 返回 a/b 中更适合展示的一条：根路径 > 有介绍 > 标题短
+  const ar = isRootUrl(a), br = isRootUrl(b);
+  if (ar !== br) return ar ? a : b;
+  const ad = a.desc !== a.title, bd = b.desc !== b.title;
+  if (ad !== bd) return ad ? a : b;
+  return (a.title || '').length <= (b.title || '').length ? a : b;
+}
+const byDomain = new Map();
+for (const it of deduped) {
+  const key = registrableDomain(it.host);
+  const cur = byDomain.get(key);
+  byDomain.set(key, cur ? pickBetter(it, cur) : it);
+}
+const finalItems = [...byDomain.values()];
+
+finalItems.sort((a, b) => (a.cat + a.sub).localeCompare(b.cat + b.sub, 'zh') || a.host.localeCompare(b.host));
 
 // ── 统计报告 ──
 const byCat = {};
-for (const it of deduped) { const k = it.cat + (it.sub ? '/' + it.sub : ''); byCat[k] = (byCat[k] || 0) + 1; }
+for (const it of finalItems) { const k = it.cat + (it.sub ? '/' + it.sub : ''); byCat[k] = (byCat[k] || 0) + 1; }
 const report = Object.entries(byCat).sort((a, b) => b[1] - a[1]).map(([k, v]) => '  ' + k.padEnd(24) + ' ' + v);
 
 console.log('raw: ' + raw.length);
-console.log('kept: ' + deduped.length + '  (url-dedup ' + dupCount + ', same-host-title folded ' + (items.length - deduped.length) + ')');
+console.log('kept: ' + finalItems.length + '  (url-dedup ' + dupCount + ', same-host-title ' + (items.length - deduped.length) + ', same-site ' + (deduped.length - finalItems.length) + ')');
 console.log('excluded: ' + excluded.length);
 console.log('\n分类分布:');
 console.log(report.join('\n'));
 const pending = byCat['待整理'] || 0;
-console.log('\n待整理占比: ' + (pending / deduped.length * 100).toFixed(1) + '%');
+console.log('\n待整理占比: ' + (pending / finalItems.length * 100).toFixed(1) + '%');
 
 fs.writeFileSync(path.join(__dirname, 'excluded-log.json'), JSON.stringify(excluded, null, 1));
 fs.mkdirSync(path.join(ROOT, 'src/data'), { recursive: true });
 fs.writeFileSync(path.join(ROOT, 'src/data/bookmarks.json'), JSON.stringify({
   generated: new Date().toISOString().slice(0, 10),
-  total: deduped.length,
-  items: deduped,
+  total: finalItems.length,
+  items: finalItems,
 }, null, 1), 'utf8');
 console.log('-> src/data/bookmarks.json written');

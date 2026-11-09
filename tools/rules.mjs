@@ -43,6 +43,10 @@ export const EXCLUDE_URL_PARTS = [
   // 六轮：最终漏网
   'javhub.me', '113da.com', 'blacked.com', 'cum4k.com', 'tubewolf.com',
   'xbabe.com', 'youjizz.com', 'stripchat.com', '1377x.to', 'sexinsex.net',
+  // 用户点名排除：寻雷系
+  'xunleimatrix.com', 'xunleiyk.com', 'xunlei.com',
+  // 同一淘客跳转服务的镜像域（保留主域 ubfgho.com 一条）
+  'bfgho.com', 'bfxitong.com',
 ];
 
 // sex 作为独立词出现才排除（vuejsexamples 不命中，sex.com / /sex/ 命中）
