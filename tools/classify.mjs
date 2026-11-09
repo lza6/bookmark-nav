@@ -84,12 +84,16 @@ function isExcluded(b) {
 }
 
 // ── 2. 标题清洗 ──
+// 无信息量的页面标题(未加载完/登录页/后台面板) → 回退用域名展示
+const JUNK_TITLE = /^(请稍候|Loading|Untitled|无标题|新建聊天|新建|首页|Home|登录|Login|Sign ?up|注册|选择服务|我的邀请|用户中心|管理平台|后台|控制台|仪表盘|Dashboard|\(22\)|About|Index)/i;
 function cleanTitle(t, u) {
   let s = t.replace(/\s*[-–—|]\s*[^|]{0,30}(XVIDEOS|XVIDEOS\.COM|xhamster|thumbzilla|pornhub|Google Chrome|YouTube|哔哩哔哩|bilibili|百度|知乎|CSDN博客|博客园|- YouTube|Video)/gi, '').trim();
   s = s.replace(/_(XVIDEOS\.COM|xhamster\w*)$/i, '').replace(/\s*\|\s*[^|]*$/, '').trim();
   // " --- 副本站名" / " — xxx" 尾部残渣（页面标题常见 A --- B 双写）
   s = s.replace(/\s+---+\s+.*$/, '').replace(/\s+—\s+.*$/, '').trim();
-  if (!s) s = hostname(u);
+  // (22) 之类序号前缀
+  s = s.replace(/^\(\d+\)\s*/, '').trim();
+  if (!s || JUNK_TITLE.test(s)) s = hostname(u);
   if (s.length > 80) s = s.slice(0, 77) + '…';
   return s;
 }
